@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Mapa de Mercedes</title>
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div id="map">
+    <div id="btns">
+        <button id="btnSimular">Dibujar Recorrido</button>
+        <button id="btnLi">Lineas Directas</button>
+        <button>Borrar Recorrido</button>
+    </div>
+    
+</div>
+<div id="nodos">
+    <textarea disabled id="nodosInput" style="width: calc(100% - 40px); margin: 10px; padding: 10px; border: 2px solid #000; border-radius: 5px; resize: none; overflow-y: auto;"></textarea>
+</div>
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<!-- osmtogeojson JS -->
+<script src="osmtogeojson.js"></script>
+<script src="map.js"></script>
+</body>
+</html>

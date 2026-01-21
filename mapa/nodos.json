@@ -1,0 +1,6398 @@
+[
+  {
+    "lat": -33.2695844,
+    "lon": -58.0343805,
+    "c1": "Ruta 21",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2689427,
+    "lon": -58.0342333,
+    "c1": "Ruta 21",
+    "c2": "Coronel Máximo Pérez"
+  },
+  {
+    "lat": -33.2670184,
+    "lon": -58.033742,
+    "c1": "Ruta 21",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2667732,
+    "lon": -58.0336542,
+    "c1": "Ruta 21",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.266215,
+    "lon": -58.0334837,
+    "c1": "Ruta 21",
+    "c2": "Sarandí"
+  },
+  {
+    "lat": -33.2661692,
+    "lon": -58.0334095,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2657456,
+    "lon": -58.0332598,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2654454,
+    "lon": -58.0331573,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.26491,
+    "lon": -58.0329845,
+    "c1": "Ruta 21",
+    "c2": "Piedras"
+  },
+  {
+    "lat": -33.2635644,
+    "lon": -58.0325714,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2634768,
+    "lon": -58.0325445,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2628344,
+    "lon": -58.0323473,
+    "c1": "Ruta 21",
+    "c2": "Constituyente"
+  },
+  {
+    "lat": -33.2612068,
+    "lon": -58.0318416,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.260975,
+    "lon": -58.031766,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2606991,
+    "lon": -58.0316815,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2606397,
+    "lon": -58.0316667,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2605735,
+    "lon": -58.0316587,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2605208,
+    "lon": -58.0316573,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2604535,
+    "lon": -58.03166,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2601184,
+    "lon": -58.0316986,
+    "c1": "Ruta 21",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.2593228,
+    "lon": -58.0318024,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2592372,
+    "lon": -58.0318525,
+    "c1": "Ruta 21",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2583112,
+    "lon": -58.0319763,
+    "c1": "Ruta 21",
+    "c2": "Clemente Fregeiro"
+  },
+  {
+    "lat": -33.2588305,
+    "lon": -58.0470559,
+    "c1": "Arroyo Dacá",
+    "c2": "Cañada de los Hornos"
+  },
+  {
+    "lat": -33.2526627,
+    "lon": -58.0558588,
+    "c1": "Arroyo Dacá",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2406896,
+    "lon": -58.052634,
+    "c1": "Arroyo Dacá",
+    "c2": "Río Negro"
+  },
+  {
+    "lat": -33.2446031,
+    "lon": -58.017793,
+    "c1": "Puente General Liber Seregni",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2383197,
+    "lon": -58.018806,
+    "c1": "Puente General Liber Seregni",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2332112,
+    "lon": -58.0401688,
+    "c1": "Las Calandrias",
+    "c2": "Los Guayabos"
+  },
+  {
+    "lat": -33.2346377,
+    "lon": -58.0409521,
+    "c1": "Las Calandrias",
+    "c2": "Los Robles"
+  },
+  {
+    "lat": -33.2571625,
+    "lon": -58.0172432,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "Camino Pense"
+  },
+  {
+    "lat": -33.2530597,
+    "lon": -58.0159419,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "Maestra Isabel Rubio"
+  },
+  {
+    "lat": -33.2511448,
+    "lon": -58.0163516,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2502021,
+    "lon": -58.0165934,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2572337,
+    "lon": -58.0177381,
+    "c1": "Joaquín Suárez",
+    "c2": "Pedro Hors"
+  },
+  {
+    "lat": -33.2562886,
+    "lon": -58.0179647,
+    "c1": "Joaquín Suárez",
+    "c2": "Clemente Fregeiro"
+  },
+  {
+    "lat": -33.2570642,
+    "lon": -58.0230405,
+    "c1": "Tomás Gomensoro",
+    "c2": "Clemente Fregeiro"
+  },
+  {
+    "lat": -33.2566517,
+    "lon": -58.0231449,
+    "c1": "Tomás Gomensoro",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2561442,
+    "lon": -58.0232665,
+    "c1": "Tomás Gomensoro",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2552133,
+    "lon": -58.0234991,
+    "c1": "Tomás Gomensoro",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2542324,
+    "lon": -58.0237473,
+    "c1": "Tomás Gomensoro",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.2532629,
+    "lon": -58.0239726,
+    "c1": "Tomás Gomensoro",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2523407,
+    "lon": -58.0242096,
+    "c1": "Tomás Gomensoro",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2514567,
+    "lon": -58.0244281,
+    "c1": "Tomás Gomensoro",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.250526,
+    "lon": -58.0246607,
+    "c1": "Tomás Gomensoro",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2496283,
+    "lon": -58.0249013,
+    "c1": "Tomás Gomensoro",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2487648,
+    "lon": -58.0251139,
+    "c1": "Tomás Gomensoro",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.247869,
+    "lon": -58.0253511,
+    "c1": "Tomás Gomensoro",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2469861,
+    "lon": -58.0255854,
+    "c1": "Tomás Gomensoro",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2462,
+    "lon": -58.0257831,
+    "c1": "Tomás Gomensoro",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2453325,
+    "lon": -58.0260053,
+    "c1": "Tomás Gomensoro",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2445565,
+    "lon": -58.0262329,
+    "c1": "Tomás Gomensoro",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2444339,
+    "lon": -58.0262689,
+    "c1": "Tomás Gomensoro",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.2632856,
+    "lon": -58.0214957,
+    "c1": "José D'Acosta",
+    "c2": "Idiarte Borda"
+  },
+  {
+    "lat": -33.2624717,
+    "lon": -58.021705,
+    "c1": "José D'Acosta",
+    "c2": "Carlos Warren"
+  },
+  {
+    "lat": -33.2615977,
+    "lon": -58.0219237,
+    "c1": "José D'Acosta",
+    "c2": "Santiago Vázquez"
+  },
+  {
+    "lat": -33.2607075,
+    "lon": -58.0221526,
+    "c1": "José D'Acosta",
+    "c2": "Treinta y Tres"
+  },
+  {
+    "lat": -33.2598325,
+    "lon": -58.0223707,
+    "c1": "José D'Acosta",
+    "c2": "Venancio Flores"
+  },
+  {
+    "lat": -33.2589261,
+    "lon": -58.0225941,
+    "c1": "José D'Acosta",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.2621042,
+    "lon": -58.0199938,
+    "c1": "Zapicán",
+    "c2": "Idiarte Borda"
+  },
+  {
+    "lat": -33.2612985,
+    "lon": -58.020194,
+    "c1": "Zapicán",
+    "c2": "Santiago Vázquez"
+  },
+  {
+    "lat": -33.2604733,
+    "lon": -58.0203856,
+    "c1": "Zapicán",
+    "c2": "Treinta y Tres"
+  },
+  {
+    "lat": -33.2635799,
+    "lon": -58.0226156,
+    "c1": "José Pedro Varela",
+    "c2": "Idiarte Borda"
+  },
+  {
+    "lat": -33.2632299,
+    "lon": -58.0227311,
+    "c1": "José Pedro Varela",
+    "c2": "Idiarte Borda"
+  },
+  {
+    "lat": -33.262667,
+    "lon": -58.0228561,
+    "c1": "José Pedro Varela",
+    "c2": "Carlos Warren"
+  },
+  {
+    "lat": -33.2617713,
+    "lon": -58.0230658,
+    "c1": "José Pedro Varela",
+    "c2": "Santiago Vázquez"
+  },
+  {
+    "lat": -33.2608668,
+    "lon": -58.0232745,
+    "c1": "José Pedro Varela",
+    "c2": "Treinta y Tres"
+  },
+  {
+    "lat": -33.2683513,
+    "lon": -58.0277521,
+    "c1": "General José Artigas",
+    "c2": "Facundo Alzola"
+  },
+  {
+    "lat": -33.2678343,
+    "lon": -58.0276085,
+    "c1": "General José Artigas",
+    "c2": "José María Iparraguirre"
+  },
+  {
+    "lat": -33.2660925,
+    "lon": -58.0271078,
+    "c1": "General José Artigas",
+    "c2": "Piedras"
+  },
+  {
+    "lat": -33.2650706,
+    "lon": -58.0268244,
+    "c1": "General José Artigas",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2646735,
+    "lon": -58.0267105,
+    "c1": "General José Artigas",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2640077,
+    "lon": -58.0265143,
+    "c1": "General José Artigas",
+    "c2": "Constituyente"
+  },
+  {
+    "lat": -33.2632822,
+    "lon": -58.0232774,
+    "c1": "Idiarte Borda",
+    "c2": "Carlos Warren"
+  },
+  {
+    "lat": -33.2633198,
+    "lon": -58.0238588,
+    "c1": "Idiarte Borda",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2631402,
+    "lon": -58.0248906,
+    "c1": "Idiarte Borda",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2448469,
+    "lon": -58.0293057,
+    "c1": "Ituzaingó",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2449693,
+    "lon": -58.0292783,
+    "c1": "Ituzaingó",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2457721,
+    "lon": -58.0290984,
+    "c1": "Ituzaingó",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2466463,
+    "lon": -58.0288907,
+    "c1": "Ituzaingó",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2474948,
+    "lon": -58.0286816,
+    "c1": "Ituzaingó",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2483685,
+    "lon": -58.0284611,
+    "c1": "Ituzaingó",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2492899,
+    "lon": -58.0282433,
+    "c1": "Ituzaingó",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2501688,
+    "lon": -58.0280225,
+    "c1": "Ituzaingó",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2510588,
+    "lon": -58.027814,
+    "c1": "Ituzaingó",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.251934,
+    "lon": -58.0275938,
+    "c1": "Ituzaingó",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.2528557,
+    "lon": -58.0273677,
+    "c1": "Ituzaingó",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2537828,
+    "lon": -58.0271409,
+    "c1": "Ituzaingó",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2547537,
+    "lon": -58.026914,
+    "c1": "Ituzaingó",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.255688,
+    "lon": -58.0267028,
+    "c1": "Ituzaingó",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2566201,
+    "lon": -58.0264813,
+    "c1": "Ituzaingó",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2575523,
+    "lon": -58.0262678,
+    "c1": "Ituzaingó",
+    "c2": "Clemente Fregeiro"
+  },
+  {
+    "lat": -33.2584735,
+    "lon": -58.0260417,
+    "c1": "Ituzaingó",
+    "c2": "Rubén Taruselli"
+  },
+  {
+    "lat": -33.2593845,
+    "lon": -58.0258254,
+    "c1": "Ituzaingó",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.2602686,
+    "lon": -58.0255976,
+    "c1": "Ituzaingó",
+    "c2": "Venancio Flores"
+  },
+  {
+    "lat": -33.2611601,
+    "lon": -58.0253688,
+    "c1": "Ituzaingó",
+    "c2": "Treinta y Tres"
+  },
+  {
+    "lat": -33.2687744,
+    "lon": -58.0255956,
+    "c1": "General Manuel Oribe",
+    "c2": "Facundo Alzola"
+  },
+  {
+    "lat": -33.2679221,
+    "lon": -58.0253388,
+    "c1": "General Manuel Oribe",
+    "c2": "Alfredo Magliacca"
+  },
+  {
+    "lat": -33.2675807,
+    "lon": -58.0252342,
+    "c1": "General Manuel Oribe",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2669257,
+    "lon": -58.0250304,
+    "c1": "General Manuel Oribe",
+    "c2": "Juan Postiglione"
+  },
+  {
+    "lat": -33.2665386,
+    "lon": -58.0249197,
+    "c1": "General Manuel Oribe",
+    "c2": "Piedras"
+  },
+  {
+    "lat": -33.2660096,
+    "lon": -58.0247563,
+    "c1": "General Manuel Oribe",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2656825,
+    "lon": -58.0246601,
+    "c1": "General Manuel Oribe",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2644575,
+    "lon": -58.0243045,
+    "c1": "General Manuel Oribe",
+    "c2": "Constituyente"
+  },
+  {
+    "lat": -33.263846,
+    "lon": -58.0241159,
+    "c1": "General Manuel Oribe",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2619109,
+    "lon": -58.0241243,
+    "c1": "General Manuel Oribe",
+    "c2": "Santiago Vázquez"
+  },
+  {
+    "lat": -33.2610203,
+    "lon": -58.0243148,
+    "c1": "General Manuel Oribe",
+    "c2": "Treinta y Tres"
+  },
+  {
+    "lat": -33.2451104,
+    "lon": -58.0313872,
+    "c1": "Cristóbal Colón",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2452425,
+    "lon": -58.0313576,
+    "c1": "Cristóbal Colón",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2460634,
+    "lon": -58.0311738,
+    "c1": "Cristóbal Colón",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2469402,
+    "lon": -58.0309738,
+    "c1": "Cristóbal Colón",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2478576,
+    "lon": -58.0308107,
+    "c1": "Cristóbal Colón",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2480306,
+    "lon": -58.0307557,
+    "c1": "Cristóbal Colón",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2485546,
+    "lon": -58.030641,
+    "c1": "Cristóbal Colón",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2486931,
+    "lon": -58.0306107,
+    "c1": "Cristóbal Colón",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2448182,
+    "lon": -58.0334563,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "José Batlle y Ordóñez"
+  },
+  {
+    "lat": -33.2449155,
+    "lon": -58.0334338,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2453497,
+    "lon": -58.0333725,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2601313,
+    "lon": -58.0318003,
+    "c1": "Bulevar Viera y Benavídez",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.245669,
+    "lon": -58.0355684,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2457888,
+    "lon": -58.0355416,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2466532,
+    "lon": -58.0353484,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2475418,
+    "lon": -58.0351674,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2484484,
+    "lon": -58.034971,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2492941,
+    "lon": -58.0347876,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.250374,
+    "lon": -58.0345496,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2512628,
+    "lon": -58.034375,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2521079,
+    "lon": -58.0342115,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2529845,
+    "lon": -58.0340329,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.2539221,
+    "lon": -58.033846,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2548476,
+    "lon": -58.0336659,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2557865,
+    "lon": -58.0334936,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.2566647,
+    "lon": -58.0333232,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2575441,
+    "lon": -58.0331705,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2584395,
+    "lon": -58.033023,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Clemente Fregeiro"
+  },
+  {
+    "lat": -33.2593715,
+    "lon": -58.0328698,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "Rubén Taruselli"
+  },
+  {
+    "lat": -33.2602496,
+    "lon": -58.0327177,
+    "c1": "Doctor Ricardo Braceras",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.2602355,
+    "lon": -58.0339974,
+    "c1": "Doctor Mario Cassinoni",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.2595792,
+    "lon": -58.0341595,
+    "c1": "Doctor Mario Cassinoni",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2595492,
+    "lon": -58.0341647,
+    "c1": "Doctor Mario Cassinoni",
+    "c2": "Rubén Taruselli"
+  },
+  {
+    "lat": -33.2586225,
+    "lon": -58.0343572,
+    "c1": "Doctor Mario Cassinoni",
+    "c2": "Clemente Fregeiro"
+  },
+  {
+    "lat": -33.2461638,
+    "lon": -58.0376785,
+    "c1": "19 de Abril",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2462563,
+    "lon": -58.0376628,
+    "c1": "19 de Abril",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2469826,
+    "lon": -58.037523,
+    "c1": "19 de Abril",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2478516,
+    "lon": -58.0373485,
+    "c1": "19 de Abril",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2487603,
+    "lon": -58.0371552,
+    "c1": "19 de Abril",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2496024,
+    "lon": -58.0369963,
+    "c1": "19 de Abril",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2507444,
+    "lon": -58.0368114,
+    "c1": "19 de Abril",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2516584,
+    "lon": -58.0366674,
+    "c1": "19 de Abril",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2525035,
+    "lon": -58.0365356,
+    "c1": "19 de Abril",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2533511,
+    "lon": -58.0364072,
+    "c1": "19 de Abril",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.2543152,
+    "lon": -58.0362458,
+    "c1": "19 de Abril",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.25523,
+    "lon": -58.0361172,
+    "c1": "19 de Abril",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2561783,
+    "lon": -58.0359785,
+    "c1": "19 de Abril",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.2570225,
+    "lon": -58.0358132,
+    "c1": "19 de Abril",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2578848,
+    "lon": -58.0356793,
+    "c1": "19 de Abril",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2587797,
+    "lon": -58.0355158,
+    "c1": "19 de Abril",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2570488,
+    "lon": -58.0371522,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2563605,
+    "lon": -58.0373377,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.2554479,
+    "lon": -58.0374397,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2545271,
+    "lon": -58.0375599,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2535779,
+    "lon": -58.0376697,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.2527146,
+    "lon": -58.0377661,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.251847,
+    "lon": -58.0378639,
+    "c1": "General Fructuoso Rivera",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2509376,
+    "lon": -58.0379847,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2497577,
+    "lon": -58.0381343,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.24892,
+    "lon": -58.0382494,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2480024,
+    "lon": -58.038383,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2471124,
+    "lon": -58.0385145,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2464476,
+    "lon": -58.0395417,
+    "c1": "21 de Setiembre",
+    "c2": "Juan Zorrilla de San Martín"
+  },
+  {
+    "lat": -33.2464939,
+    "lon": -58.0395374,
+    "c1": "21 de Setiembre",
+    "c2": "Juan Zorrilla de San Martín"
+  },
+  {
+    "lat": -33.2472607,
+    "lon": -58.039471,
+    "c1": "21 de Setiembre",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2556728,
+    "lon": -58.0388977,
+    "c1": "1924 Colombes",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2547529,
+    "lon": -58.0396047,
+    "c1": "1924 Colombes",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2565991,
+    "lon": -58.0389121,
+    "c1": "1930 Centenario",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.2574229,
+    "lon": -58.0386332,
+    "c1": "1930 Centenario",
+    "c2": "Del Cerro"
+  },
+  {
+    "lat": -33.2593484,
+    "lon": -58.0395598,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2584692,
+    "lon": -58.0396283,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2575766,
+    "lon": -58.0397186,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Del Cerro"
+  },
+  {
+    "lat": -33.2567544,
+    "lon": -58.0397722,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.2558388,
+    "lon": -58.0398368,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2550814,
+    "lon": -58.0399066,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Doctor José May"
+  },
+  {
+    "lat": -33.2547855,
+    "lon": -58.0399345,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2539464,
+    "lon": -58.0400106,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.2531004,
+    "lon": -58.0400612,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2522394,
+    "lon": -58.0401371,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2513148,
+    "lon": -58.0402201,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2500678,
+    "lon": -58.040312,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2491956,
+    "lon": -58.0403829,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2482919,
+    "lon": -58.0404725,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2473998,
+    "lon": -58.0405547,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2466613,
+    "lon": -58.0405984,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Juan Zorrilla de San Martín"
+  },
+  {
+    "lat": -33.2466091,
+    "lon": -58.0406005,
+    "c1": "Luis Bernardo Pozzolo",
+    "c2": "Juan Zorrilla de San Martín"
+  },
+  {
+    "lat": -33.2532485,
+    "lon": -58.0409273,
+    "c1": "Cerrito",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2523968,
+    "lon": -58.0410254,
+    "c1": "Cerrito",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2514755,
+    "lon": -58.0411444,
+    "c1": "Cerrito",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2502183,
+    "lon": -58.0413127,
+    "c1": "Cerrito",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2493464,
+    "lon": -58.0414436,
+    "c1": "Cerrito",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2484714,
+    "lon": -58.0415743,
+    "c1": "Cerrito",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2475573,
+    "lon": -58.0416949,
+    "c1": "Cerrito",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2468299,
+    "lon": -58.0417849,
+    "c1": "Cerrito",
+    "c2": "Juan Zorrilla de San Martín"
+  },
+  {
+    "lat": -33.2467734,
+    "lon": -58.0417679,
+    "c1": "Cerrito",
+    "c2": "Juan Zorrilla de San Martín"
+  },
+  {
+    "lat": -33.2534329,
+    "lon": -58.0419649,
+    "c1": "Pedro González",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2525933,
+    "lon": -58.0421314,
+    "c1": "Pedro González",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2516637,
+    "lon": -58.0423198,
+    "c1": "Pedro González",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.250404,
+    "lon": -58.0425795,
+    "c1": "Pedro González",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2495174,
+    "lon": -58.0427577,
+    "c1": "Pedro González",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2486853,
+    "lon": -58.0429262,
+    "c1": "Pedro González",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2530878,
+    "lon": -58.0446487,
+    "c1": "8 de Octubre",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2530185,
+    "lon": -58.0446562,
+    "c1": "8 de Octubre",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2520675,
+    "lon": -58.0447573,
+    "c1": "8 de Octubre",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2507431,
+    "lon": -58.0449011,
+    "c1": "8 de Octubre",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2498218,
+    "lon": -58.0450006,
+    "c1": "8 de Octubre",
+    "c2": "Eusebio Giménez"
+  },
+  {
+    "lat": -33.2490265,
+    "lon": -58.0450916,
+    "c1": "8 de Octubre",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2474398,
+    "lon": -58.0462433,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2473036,
+    "lon": -58.0454076,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "8 de Octubre"
+  },
+  {
+    "lat": -33.2471537,
+    "lon": -58.0443702,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "Hernandarias"
+  },
+  {
+    "lat": -33.2470021,
+    "lon": -58.0432548,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "Pedro González"
+  },
+  {
+    "lat": -33.2469697,
+    "lon": -58.0429717,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "Rambla Francisco Mario Ubillos"
+  },
+  {
+    "lat": -33.2444583,
+    "lon": -58.0197944,
+    "c1": "Ricardo Detomasi",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.2446027,
+    "lon": -58.0207646,
+    "c1": "Ricardo Detomasi",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2493562,
+    "lon": -58.0483973,
+    "c1": "Paysandú",
+    "c2": "Juan Zorrilla de San Martín"
+  },
+  {
+    "lat": -33.2460681,
+    "lon": -58.0192114,
+    "c1": "Eusebio Giménez",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.246078,
+    "lon": -58.0192696,
+    "c1": "Eusebio Giménez",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.2462266,
+    "lon": -58.0203833,
+    "c1": "Eusebio Giménez",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2463652,
+    "lon": -58.0215168,
+    "c1": "Eusebio Giménez",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2465046,
+    "lon": -58.0226065,
+    "c1": "Eusebio Giménez",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2466684,
+    "lon": -58.0236074,
+    "c1": "Eusebio Giménez",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2468353,
+    "lon": -58.024641,
+    "c1": "Eusebio Giménez",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2471512,
+    "lon": -58.0265614,
+    "c1": "Eusebio Giménez",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.2473235,
+    "lon": -58.027677,
+    "c1": "Eusebio Giménez",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2476792,
+    "lon": -58.0297735,
+    "c1": "Eusebio Giménez",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2477236,
+    "lon": -58.0299537,
+    "c1": "Eusebio Giménez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2478256,
+    "lon": -58.030628,
+    "c1": "Eusebio Giménez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2480002,
+    "lon": -58.0318506,
+    "c1": "Eusebio Giménez",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2481466,
+    "lon": -58.0328693,
+    "c1": "Eusebio Giménez",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2483043,
+    "lon": -58.0339469,
+    "c1": "Eusebio Giménez",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2486038,
+    "lon": -58.0360544,
+    "c1": "Eusebio Giménez",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2490578,
+    "lon": -58.0392755,
+    "c1": "Eusebio Giménez",
+    "c2": "21 de Setiembre"
+  },
+  {
+    "lat": -33.2496844,
+    "lon": -58.0439468,
+    "c1": "Eusebio Giménez",
+    "c2": "Hernandarias"
+  },
+  {
+    "lat": -33.2476962,
+    "lon": -58.0189273,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2478992,
+    "lon": -58.019998,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.248079,
+    "lon": -58.021085,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2482639,
+    "lon": -58.0221781,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2484385,
+    "lon": -58.0231948,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2486071,
+    "lon": -58.0241842,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2489383,
+    "lon": -58.0261475,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.249119,
+    "lon": -58.0272237,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.249481,
+    "lon": -58.0293688,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2511272,
+    "lon": -58.0391157,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "21 de Setiembre"
+  },
+  {
+    "lat": -33.2518814,
+    "lon": -58.0435688,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Hernandarias"
+  },
+  {
+    "lat": -33.2492886,
+    "lon": -58.0170031,
+    "c1": "Florencio Sánchez",
+    "c2": "Maestra Leila Tuya"
+  },
+  {
+    "lat": -33.2495419,
+    "lon": -58.018558,
+    "c1": "Florencio Sánchez",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2508346,
+    "lon": -58.0144201,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Este"
+  },
+  {
+    "lat": -33.250985,
+    "lon": -58.0151757,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Profesor Juan Orlando Kelly"
+  },
+  {
+    "lat": -33.251126,
+    "lon": -58.0161689,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Maestra Isabel Rubio"
+  },
+  {
+    "lat": -33.2571946,
+    "lon": -58.0460233,
+    "c1": "Ansina",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2565811,
+    "lon": -58.0458243,
+    "c1": "Ansina",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2562431,
+    "lon": -58.0457054,
+    "c1": "Ansina",
+    "c2": "Doctor E. Imas"
+  },
+  {
+    "lat": -33.2562291,
+    "lon": -58.0452585,
+    "c1": "Ansina",
+    "c2": "Dolores Brusain (Lola)"
+  },
+  {
+    "lat": -33.256233,
+    "lon": -58.0452174,
+    "c1": "Ansina",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.256283,
+    "lon": -58.044684,
+    "c1": "Ansina",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.25621,
+    "lon": -58.0437836,
+    "c1": "Ansina",
+    "c2": "Doctor Alfredo Alambarri"
+  },
+  {
+    "lat": -33.2560745,
+    "lon": -58.0432855,
+    "c1": "Ansina",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2559671,
+    "lon": -58.0426768,
+    "c1": "Ansina",
+    "c2": "Doctora María Inés Alustiza"
+  },
+  {
+    "lat": -33.2559854,
+    "lon": -58.0420049,
+    "c1": "Ansina",
+    "c2": "Doctor Eduardo Irigaray"
+  },
+  {
+    "lat": -33.2559946,
+    "lon": -58.0416569,
+    "c1": "Ansina",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2560023,
+    "lon": -58.0413504,
+    "c1": "Ansina",
+    "c2": "Doctor Luis Méndez Aserito"
+  },
+  {
+    "lat": -33.2559745,
+    "lon": -58.0407675,
+    "c1": "Ansina",
+    "c2": "Doctor Abel Chifflet"
+  },
+  {
+    "lat": -33.253126,
+    "lon": -58.0167742,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Profesor Clemente Ruggia"
+  },
+  {
+    "lat": -33.25327,
+    "lon": -58.0177292,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2542608,
+    "lon": -58.016509,
+    "c1": "Eduardo Casagrande",
+    "c2": "Profesor Clemente Ruggia"
+  },
+  {
+    "lat": -33.2543192,
+    "lon": -58.016979,
+    "c1": "Eduardo Casagrande",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2543881,
+    "lon": -58.01749,
+    "c1": "Eduardo Casagrande",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2586962,
+    "lon": -58.0410612,
+    "c1": "Don Bosco",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2564552,
+    "lon": -58.0190291,
+    "c1": "Clemente Fregeiro",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2566228,
+    "lon": -58.0201786,
+    "c1": "Clemente Fregeiro",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2567722,
+    "lon": -58.0211938,
+    "c1": "Clemente Fregeiro",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2569014,
+    "lon": -58.0220384,
+    "c1": "Clemente Fregeiro",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2572306,
+    "lon": -58.0241361,
+    "c1": "Clemente Fregeiro",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.2573837,
+    "lon": -58.0251513,
+    "c1": "Clemente Fregeiro",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2577266,
+    "lon": -58.0274472,
+    "c1": "Clemente Fregeiro",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2577786,
+    "lon": -58.027802,
+    "c1": "Clemente Fregeiro",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2578839,
+    "lon": -58.0285565,
+    "c1": "Clemente Fregeiro",
+    "c2": "Cristóbal Colón"
+  },
+  {
+    "lat": -33.2580211,
+    "lon": -58.0295811,
+    "c1": "Clemente Fregeiro",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2581706,
+    "lon": -58.0308159,
+    "c1": "Clemente Fregeiro",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2519022,
+    "lon": -58.0515192,
+    "c1": "sin_nombre",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2512114,
+    "lon": -58.0517577,
+    "c1": "sin_nombre",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2485417,
+    "lon": -58.0295875,
+    "c1": "General José Artigas",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2483779,
+    "lon": -58.0296382,
+    "c1": "General José Artigas",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2478241,
+    "lon": -58.0297607,
+    "c1": "General José Artigas",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2468053,
+    "lon": -58.0299763,
+    "c1": "General José Artigas",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2459235,
+    "lon": -58.0301717,
+    "c1": "General José Artigas",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2451021,
+    "lon": -58.0303618,
+    "c1": "General José Artigas",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2449861,
+    "lon": -58.0303886,
+    "c1": "General José Artigas",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2496479,
+    "lon": -58.0304071,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Cristóbal Colón"
+  },
+  {
+    "lat": -33.2630822,
+    "lon": -57.9944072,
+    "c1": "Camino Pense",
+    "c2": "A Lo De Gandolfo"
+  },
+  {
+    "lat": -33.2616157,
+    "lon": -57.999974,
+    "c1": "Camino Pense",
+    "c2": "Pense"
+  },
+  {
+    "lat": -33.2593733,
+    "lon": -58.0085108,
+    "c1": "Camino Pense",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2590945,
+    "lon": -58.0095723,
+    "c1": "Camino Pense",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2585817,
+    "lon": -58.0115473,
+    "c1": "Camino Pense",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2583183,
+    "lon": -58.0125989,
+    "c1": "Camino Pense",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2576977,
+    "lon": -58.0149921,
+    "c1": "Camino Pense",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2576252,
+    "lon": -58.0152717,
+    "c1": "Camino Pense",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2571848,
+    "lon": -58.0170687,
+    "c1": "Camino Pense",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2582027,
+    "lon": -58.0239146,
+    "c1": "Rubén Taruselli",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.2583166,
+    "lon": -58.0249207,
+    "c1": "Rubén Taruselli",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2586353,
+    "lon": -58.0272425,
+    "c1": "Rubén Taruselli",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2587815,
+    "lon": -58.0283767,
+    "c1": "Rubén Taruselli",
+    "c2": "Cristóbal Colón"
+  },
+  {
+    "lat": -33.2589124,
+    "lon": -58.0293782,
+    "c1": "Rubén Taruselli",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2590781,
+    "lon": -58.0306297,
+    "c1": "Rubén Taruselli",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2505402,
+    "lon": -58.0302068,
+    "c1": "Cristóbal Colón",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2514126,
+    "lon": -58.0300029,
+    "c1": "Cristóbal Colón",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2522895,
+    "lon": -58.0298046,
+    "c1": "Cristóbal Colón",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.2532237,
+    "lon": -58.0295909,
+    "c1": "Cristóbal Colón",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2541602,
+    "lon": -58.0293789,
+    "c1": "Cristóbal Colón",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2551085,
+    "lon": -58.0291591,
+    "c1": "Cristóbal Colón",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.2560159,
+    "lon": -58.0289493,
+    "c1": "Cristóbal Colón",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2569448,
+    "lon": -58.0287501,
+    "c1": "Cristóbal Colón",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2571925,
+    "lon": -58.0286991,
+    "c1": "Cristóbal Colón",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2572978,
+    "lon": -58.0286774,
+    "c1": "Cristóbal Colón",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2576954,
+    "lon": -58.0285956,
+    "c1": "Cristóbal Colón",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2596733,
+    "lon": -58.0282013,
+    "c1": "Cristóbal Colón",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.2605986,
+    "lon": -58.0280207,
+    "c1": "Cristóbal Colón",
+    "c2": "Venancio Flores"
+  },
+  {
+    "lat": -33.2615118,
+    "lon": -58.0278503,
+    "c1": "Cristóbal Colón",
+    "c2": "Treinta y Tres"
+  },
+  {
+    "lat": -33.2503594,
+    "lon": -58.0291647,
+    "c1": "General José Artigas",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2592345,
+    "lon": -58.0183281,
+    "c1": "Venancio Flores",
+    "c2": "Profesor Clemente Ruggia"
+  },
+  {
+    "lat": -33.2593646,
+    "lon": -58.0186177,
+    "c1": "Venancio Flores",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2594786,
+    "lon": -58.0195431,
+    "c1": "Venancio Flores",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2594947,
+    "lon": -58.0196665,
+    "c1": "Venancio Flores",
+    "c2": "Idiarte Borda"
+  },
+  {
+    "lat": -33.259625,
+    "lon": -58.0205717,
+    "c1": "Venancio Flores",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.259697,
+    "lon": -58.0213584,
+    "c1": "Venancio Flores",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2599798,
+    "lon": -58.0234838,
+    "c1": "Venancio Flores",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.2601219,
+    "lon": -58.0245004,
+    "c1": "Venancio Flores",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2604409,
+    "lon": -58.0268177,
+    "c1": "Venancio Flores",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.260732,
+    "lon": -58.0289938,
+    "c1": "Venancio Flores",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.260896,
+    "lon": -58.0302503,
+    "c1": "Venancio Flores",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2616252,
+    "lon": -58.0287759,
+    "c1": "Treinta y Tres",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2613336,
+    "lon": -58.0266149,
+    "c1": "Treinta y Tres",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2605687,
+    "lon": -58.0211304,
+    "c1": "Treinta y Tres",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2612092,
+    "lon": -58.0195002,
+    "c1": "Santiago Vázquez",
+    "c2": "Idiarte Borda"
+  },
+  {
+    "lat": -33.2614193,
+    "lon": -58.0208955,
+    "c1": "Santiago Vázquez",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2620645,
+    "lon": -58.0251439,
+    "c1": "Santiago Vázquez",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2622574,
+    "lon": -58.0263981,
+    "c1": "Santiago Vázquez",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2628137,
+    "lon": -58.0324559,
+    "c1": "Constituyente",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2630254,
+    "lon": -58.0313905,
+    "c1": "Constituyente",
+    "c2": "Justo Correa"
+  },
+  {
+    "lat": -33.2631967,
+    "lon": -58.030499,
+    "c1": "Constituyente",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2634543,
+    "lon": -58.0292289,
+    "c1": "Constituyente",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2637112,
+    "lon": -58.0279712,
+    "c1": "Constituyente",
+    "c2": "Cristóbal Colón"
+  },
+  {
+    "lat": -33.2642606,
+    "lon": -58.0252412,
+    "c1": "Constituyente",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2664498,
+    "lon": -58.0324043,
+    "c1": "Justo Correa",
+    "c2": "Sarandí"
+  },
+  {
+    "lat": -33.265105,
+    "lon": -58.0319983,
+    "c1": "Justo Correa",
+    "c2": "Piedras"
+  },
+  {
+    "lat": -33.266349,
+    "lon": -58.0258433,
+    "c1": "Piedras",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2657905,
+    "lon": -58.0285671,
+    "c1": "Piedras",
+    "c2": "Cristóbal Colón"
+  },
+  {
+    "lat": -33.2655433,
+    "lon": -58.0298288,
+    "c1": "Piedras",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2652898,
+    "lon": -58.0310473,
+    "c1": "Piedras",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2648849,
+    "lon": -58.0331063,
+    "c1": "Piedras",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2647328,
+    "lon": -58.0436317,
+    "c1": "Sarandí",
+    "c2": "Camino Olazagaste"
+  },
+  {
+    "lat": -33.2647944,
+    "lon": -58.0432074,
+    "c1": "Sarandí",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2649638,
+    "lon": -58.042041,
+    "c1": "Sarandí",
+    "c2": "Madreselva"
+  },
+  {
+    "lat": -33.2650832,
+    "lon": -58.041219,
+    "c1": "Sarandí",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2652394,
+    "lon": -58.0401439,
+    "c1": "Sarandí",
+    "c2": "Clavel"
+  },
+  {
+    "lat": -33.2653785,
+    "lon": -58.0391904,
+    "c1": "Sarandí",
+    "c2": "Jazmín"
+  },
+  {
+    "lat": -33.2655168,
+    "lon": -58.0382379,
+    "c1": "Sarandí",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2656579,
+    "lon": -58.037266,
+    "c1": "Sarandí",
+    "c2": "Mayo"
+  },
+  {
+    "lat": -33.2659134,
+    "lon": -58.0353724,
+    "c1": "Sarandí",
+    "c2": "Pensamiento"
+  },
+  {
+    "lat": -33.2659783,
+    "lon": -58.0349037,
+    "c1": "Sarandí",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2660314,
+    "lon": -58.0344556,
+    "c1": "Sarandí",
+    "c2": "Santa Rita"
+  },
+  {
+    "lat": -33.2666717,
+    "lon": -58.0314042,
+    "c1": "Sarandí",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2683357,
+    "lon": -58.0306385,
+    "c1": "Diego Lamas",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2685398,
+    "lon": -58.0293563,
+    "c1": "Diego Lamas",
+    "c2": "Cristóbal Colón"
+  },
+  {
+    "lat": -33.2711521,
+    "lon": -58.0262787,
+    "c1": "Coronel Máximo Pérez",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2710161,
+    "lon": -58.0269398,
+    "c1": "Coronel Máximo Pérez",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2701243,
+    "lon": -58.0260006,
+    "c1": "Andresito",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2700113,
+    "lon": -58.026762,
+    "c1": "Andresito",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2698258,
+    "lon": -58.028153,
+    "c1": "Andresito",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2680919,
+    "lon": -58.0263551,
+    "c1": "José María Iparraguirre",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2679072,
+    "lon": -58.0272679,
+    "c1": "José María Iparraguirre",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2688111,
+    "lon": -58.0256071,
+    "c1": "Facundo Alzola",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2685985,
+    "lon": -58.0265037,
+    "c1": "Facundo Alzola",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2685061,
+    "lon": -58.0269574,
+    "c1": "Facundo Alzola",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2450497,
+    "lon": -58.0036985,
+    "c1": "Camino Elías Regules",
+    "c2": "Avenida Agraciada"
+  },
+  {
+    "lat": -33.2452792,
+    "lon": -58.0034794,
+    "c1": "Camino Elías Regules",
+    "c2": "Ruta 14 Brigadier General Venancio Flores"
+  },
+  {
+    "lat": -33.2532528,
+    "lon": -58.0167465,
+    "c1": "sin_nombre",
+    "c2": "Profesor Clemente Ruggia"
+  },
+  {
+    "lat": -33.2527405,
+    "lon": -58.0168621,
+    "c1": "sin_nombre",
+    "c2": "Profesor Clemente Ruggia"
+  },
+  {
+    "lat": -33.2571784,
+    "lon": -58.0174214,
+    "c1": "Profesor Clemente Ruggia",
+    "c2": "Pedro Hors"
+  },
+  {
+    "lat": -33.2556302,
+    "lon": -58.0168663,
+    "c1": "Profesor Clemente Ruggia",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2548081,
+    "lon": -58.0165847,
+    "c1": "Profesor Clemente Ruggia",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2521367,
+    "lon": -58.0170055,
+    "c1": "Profesor Clemente Ruggia",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.253422,
+    "lon": -58.0123152,
+    "c1": "Andrés Cheveste",
+    "c2": "Jacinto Trápani"
+  },
+  {
+    "lat": -33.2526976,
+    "lon": -58.012617,
+    "c1": "Andrés Cheveste",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2525787,
+    "lon": -58.0126665,
+    "c1": "Andrés Cheveste",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2505584,
+    "lon": -58.0133714,
+    "c1": "Andrés Cheveste",
+    "c2": "Mario H. Segurola"
+  },
+  {
+    "lat": -33.2503535,
+    "lon": -58.0133741,
+    "c1": "Andrés Cheveste",
+    "c2": "Mario H. Segurola"
+  },
+  {
+    "lat": -33.2491692,
+    "lon": -58.0133894,
+    "c1": "Andrés Cheveste",
+    "c2": "Avenida Agraciada"
+  },
+  {
+    "lat": -33.2483444,
+    "lon": -58.0134058,
+    "c1": "Andrés Cheveste",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2474367,
+    "lon": -58.0134201,
+    "c1": "Andrés Cheveste",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2457279,
+    "lon": -58.0134212,
+    "c1": "Andrés Cheveste",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2455273,
+    "lon": -58.0037207,
+    "c1": "Avenida Agraciada",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2476451,
+    "lon": -58.004291,
+    "c1": "Avenida Agraciada",
+    "c2": "Camino del Águila"
+  },
+  {
+    "lat": -33.2573398,
+    "lon": -58.0375643,
+    "c1": "Del Cerro",
+    "c2": "General Fructuoso Rivera"
+  },
+  {
+    "lat": -33.2573708,
+    "lon": -58.0381222,
+    "c1": "Del Cerro",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2575349,
+    "lon": -58.0394185,
+    "c1": "Del Cerro",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2582447,
+    "lon": -58.0417384,
+    "c1": "Del Cerro",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.255195,
+    "lon": -58.0407393,
+    "c1": "Doctor Abel Chifflet",
+    "c2": "Doctor José May"
+  },
+  {
+    "lat": -33.2569255,
+    "lon": -58.0408104,
+    "c1": "Doctor Abel Chifflet",
+    "c2": "Juan Manuel Blanes Viale"
+  },
+  {
+    "lat": -33.2457182,
+    "lon": -58.0222972,
+    "c1": "Tadeo Fúnez",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2448502,
+    "lon": -58.0224928,
+    "c1": "Tadeo Fúnez",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2477575,
+    "lon": -58.043114,
+    "c1": "Ricardo Detomasi",
+    "c2": "Pedro González"
+  },
+  {
+    "lat": -33.2479263,
+    "lon": -58.0442518,
+    "c1": "Ricardo Detomasi",
+    "c2": "Hernandarias"
+  },
+  {
+    "lat": -33.2480552,
+    "lon": -58.0452686,
+    "c1": "Ricardo Detomasi",
+    "c2": "8 de Octubre"
+  },
+  {
+    "lat": -33.2481834,
+    "lon": -58.0461881,
+    "c1": "Ricardo Detomasi",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2499726,
+    "lon": -58.0460525,
+    "c1": "Eusebio Giménez",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2501197,
+    "lon": -58.0471118,
+    "c1": "Eusebio Giménez",
+    "c2": "Presbítero Ramón Montero y Brown"
+  },
+  {
+    "lat": -33.2502221,
+    "lon": -58.0474959,
+    "c1": "Eusebio Giménez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2512113,
+    "lon": -58.0484024,
+    "c1": "Eusebio Giménez",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2488691,
+    "lon": -58.0440877,
+    "c1": "Paysandú",
+    "c2": "Hernandarias"
+  },
+  {
+    "lat": -33.2481446,
+    "lon": -58.0393798,
+    "c1": "Paysandú",
+    "c2": "21 de Setiembre"
+  },
+  {
+    "lat": -33.2476957,
+    "lon": -58.0362562,
+    "c1": "Paysandú",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2473952,
+    "lon": -58.0341283,
+    "c1": "Paysandú",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2472382,
+    "lon": -58.0330396,
+    "c1": "Paysandú",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2470987,
+    "lon": -58.0320336,
+    "c1": "Paysandú",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.246485,
+    "lon": -58.0278819,
+    "c1": "Paysandú",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2463325,
+    "lon": -58.0267489,
+    "c1": "Paysandú",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.246065,
+    "lon": -58.0248235,
+    "c1": "Paysandú",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2459271,
+    "lon": -58.0237706,
+    "c1": "Paysandú",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2457764,
+    "lon": -58.0227955,
+    "c1": "Paysandú",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2456314,
+    "lon": -58.0216995,
+    "c1": "Paysandú",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2454727,
+    "lon": -58.0205578,
+    "c1": "Paysandú",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2453168,
+    "lon": -58.019463,
+    "c1": "Paysandú",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.2532638,
+    "lon": -58.0457159,
+    "c1": "José Enrique Rodó",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2485278,
+    "lon": -58.0182031,
+    "c1": "José Enrique Rodó",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2484636,
+    "lon": -58.0176858,
+    "c1": "José Enrique Rodó",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2487207,
+    "lon": -58.0170904,
+    "c1": "José Enrique Rodó",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2487635,
+    "lon": -58.0169737,
+    "c1": "José Enrique Rodó",
+    "c2": "Maestra Leila Tuya"
+  },
+  {
+    "lat": -33.2488112,
+    "lon": -58.0166237,
+    "c1": "José Enrique Rodó",
+    "c2": "Maestra Isabel Rubio"
+  },
+  {
+    "lat": -33.2493484,
+    "lon": -58.0471642,
+    "c1": "Presbítero Ramón Montero y Brown",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2509412,
+    "lon": -58.0470512,
+    "c1": "Presbítero Ramón Montero y Brown",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2543965,
+    "lon": -58.0410457,
+    "c1": "Bernabé Comes",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2545766,
+    "lon": -58.0410577,
+    "c1": "Bernabé Comes",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2547386,
+    "lon": -58.0410464,
+    "c1": "Bernabé Comes",
+    "c2": "Doctor Serafín Rivas Rodríguez"
+  },
+  {
+    "lat": -33.2622034,
+    "lon": -58.0200923,
+    "c1": "Carlos Warren",
+    "c2": "Idiarte Borda"
+  },
+  {
+    "lat": -33.2622975,
+    "lon": -58.0206616,
+    "c1": "Carlos Warren",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2504775,
+    "lon": -58.0183606,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2502222,
+    "lon": -58.0168267,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "Maestra Leila Tuya"
+  },
+  {
+    "lat": -33.2534297,
+    "lon": -58.0186746,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2535891,
+    "lon": -58.0197231,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2537623,
+    "lon": -58.0208532,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2539295,
+    "lon": -58.0218973,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2540663,
+    "lon": -58.0227631,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2544016,
+    "lon": -58.0248291,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.2545819,
+    "lon": -58.0258614,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.254941,
+    "lon": -58.028089,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2552771,
+    "lon": -58.030193,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2554529,
+    "lon": -58.0313588,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2556017,
+    "lon": -58.0323951,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2559927,
+    "lon": -58.0348347,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2565434,
+    "lon": -58.0386235,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "1924 Colombes"
+  },
+  {
+    "lat": -33.2566305,
+    "lon": -58.0390924,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "1928 Amsterdam"
+  },
+  {
+    "lat": -33.2511636,
+    "lon": -58.0164936,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2511885,
+    "lon": -58.0166722,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Ansina"
+  },
+  {
+    "lat": -33.2513992,
+    "lon": -58.0181588,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2515614,
+    "lon": -58.0191343,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2517194,
+    "lon": -58.0201801,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2519062,
+    "lon": -58.0213049,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2520757,
+    "lon": -58.0223436,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2522078,
+    "lon": -58.0232251,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2525008,
+    "lon": -58.0252937,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.2526641,
+    "lon": -58.026336,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2530478,
+    "lon": -58.0285303,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2533905,
+    "lon": -58.030619,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2535848,
+    "lon": -58.0317516,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2537568,
+    "lon": -58.0327848,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.254138,
+    "lon": -58.0351707,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2547035,
+    "lon": -58.0388205,
+    "c1": "Doctor Serafín Rivas Rodríguez",
+    "c2": "21 de Setiembre"
+  },
+  {
+    "lat": -33.2568816,
+    "lon": -58.0413818,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Doctor Luis Méndez Aserito"
+  },
+  {
+    "lat": -33.2568561,
+    "lon": -58.0416936,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2568288,
+    "lon": -58.042025,
+    "c1": "Juan Manuel Blanes Viale",
+    "c2": "Doctor Eduardo Irigaray"
+  },
+  {
+    "lat": -33.2522844,
+    "lon": -58.017948,
+    "c1": "Ansina",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2522073,
+    "lon": -58.0174556,
+    "c1": "Ansina",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2521548,
+    "lon": -58.017121,
+    "c1": "Ansina",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2514224,
+    "lon": -58.0166219,
+    "c1": "Ansina",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2557168,
+    "lon": -58.0391303,
+    "c1": "Ansina",
+    "c2": "1928 Amsterdam"
+  },
+  {
+    "lat": -33.2550585,
+    "lon": -58.0350049,
+    "c1": "Ansina",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2546721,
+    "lon": -58.0325817,
+    "c1": "Ansina",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2544818,
+    "lon": -58.0315607,
+    "c1": "Ansina",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.254309,
+    "lon": -58.0304023,
+    "c1": "Ansina",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2539798,
+    "lon": -58.0283144,
+    "c1": "Ansina",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.253602,
+    "lon": -58.0261107,
+    "c1": "Ansina",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.25344,
+    "lon": -58.0250683,
+    "c1": "Ansina",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.2531058,
+    "lon": -58.0230021,
+    "c1": "Ansina",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2529649,
+    "lon": -58.0221312,
+    "c1": "Ansina",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2528022,
+    "lon": -58.0210942,
+    "c1": "Ansina",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2526221,
+    "lon": -58.0199688,
+    "c1": "Ansina",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2524476,
+    "lon": -58.0189124,
+    "c1": "Ansina",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2575707,
+    "lon": -58.0199561,
+    "c1": "Pedro Hors",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.257721,
+    "lon": -58.0209842,
+    "c1": "Pedro Hors",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2578571,
+    "lon": -58.0218305,
+    "c1": "Pedro Hors",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2585992,
+    "lon": -58.0294587,
+    "c1": "Luis Ramírez",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2587759,
+    "lon": -58.0306971,
+    "c1": "Luis Ramírez",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2584941,
+    "lon": -58.0197542,
+    "c1": "General Garibaldi",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.258272,
+    "lon": -58.0185795,
+    "c1": "General Garibaldi",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2678185,
+    "lon": -58.0257905,
+    "c1": "José Segú",
+    "c2": "Alfredo Magliacca"
+  },
+  {
+    "lat": -33.266831,
+    "lon": -58.0255019,
+    "c1": "José Segú",
+    "c2": "Juan Postiglione"
+  },
+  {
+    "lat": -33.2667348,
+    "lon": -58.0259582,
+    "c1": "Juan Postiglione",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.267723,
+    "lon": -58.0262478,
+    "c1": "Alfredo Magliacca",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2524783,
+    "lon": -58.047274,
+    "c1": "Trinidad Guevara",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2520496,
+    "lon": -58.0477604,
+    "c1": "Trinidad Guevara",
+    "c2": "Isidoro Cano (Zenona)"
+  },
+  {
+    "lat": -33.2511576,
+    "lon": -58.0479786,
+    "c1": "Trinidad Guevara",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2550077,
+    "lon": -58.0483125,
+    "c1": "Doctor Raúl Bogliaccini",
+    "c2": "Doctor Leandro Zubiaurre"
+  },
+  {
+    "lat": -33.2548849,
+    "lon": -58.0479808,
+    "c1": "Doctor Raúl Bogliaccini",
+    "c2": "Doctor Eduardo Mela"
+  },
+  {
+    "lat": -33.2547961,
+    "lon": -58.0474586,
+    "c1": "Doctor Raúl Bogliaccini",
+    "c2": "Doctor Salvador Burghi"
+  },
+  {
+    "lat": -33.2547055,
+    "lon": -58.0469656,
+    "c1": "Doctor Raúl Bogliaccini",
+    "c2": "Doctor Escolástico Imas"
+  },
+  {
+    "lat": -33.2546808,
+    "lon": -58.0468475,
+    "c1": "Doctor Raúl Bogliaccini",
+    "c2": "Doctor Escolástico Imas"
+  },
+  {
+    "lat": -33.2545912,
+    "lon": -58.0463956,
+    "c1": "Doctor Raúl Bogliaccini",
+    "c2": "Ángela Erba"
+  },
+  {
+    "lat": -33.2545732,
+    "lon": -58.0462561,
+    "c1": "Doctor Raúl Bogliaccini",
+    "c2": "Ángela Erba"
+  },
+  {
+    "lat": -33.2545328,
+    "lon": -58.0459249,
+    "c1": "Doctor Raúl Bogliaccini",
+    "c2": "Dolores Brusain (Lola)"
+  },
+  {
+    "lat": -33.2543724,
+    "lon": -58.0498482,
+    "c1": "Gaspar González",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2539345,
+    "lon": -58.0454358,
+    "c1": "Gaspar González",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2540041,
+    "lon": -58.0459935,
+    "c1": "Gaspar González",
+    "c2": "Dolores Brusain (Lola)"
+  },
+  {
+    "lat": -33.2540615,
+    "lon": -58.0464947,
+    "c1": "Gaspar González",
+    "c2": "Ángela Erba"
+  },
+  {
+    "lat": -33.2541229,
+    "lon": -58.0469729,
+    "c1": "Gaspar González",
+    "c2": "Doctor Escolástico Imas"
+  },
+  {
+    "lat": -33.2542023,
+    "lon": -58.0475766,
+    "c1": "Gaspar González",
+    "c2": "Doctor Salvador Burghi"
+  },
+  {
+    "lat": -33.2542707,
+    "lon": -58.0480949,
+    "c1": "Gaspar González",
+    "c2": "Doctor Eduardo Mela"
+  },
+  {
+    "lat": -33.2543259,
+    "lon": -58.0485553,
+    "c1": "Gaspar González",
+    "c2": "Doctor Leandro Zubiaurre"
+  },
+  {
+    "lat": -33.256233,
+    "lon": -58.047144,
+    "c1": "Doctor Salvador Burghi",
+    "c2": "Doctor E. Imas"
+  },
+  {
+    "lat": -33.2555679,
+    "lon": -58.0472888,
+    "c1": "Doctor Salvador Burghi",
+    "c2": "Doctor Enrique Costa Leonard"
+  },
+  {
+    "lat": -33.2560681,
+    "lon": -58.0465967,
+    "c1": "Doctor Escolástico Imas",
+    "c2": "Doctor E. Imas"
+  },
+  {
+    "lat": -33.255488,
+    "lon": -58.0467582,
+    "c1": "Doctor Escolástico Imas",
+    "c2": "Doctor Enrique Costa Leonard"
+  },
+  {
+    "lat": -33.2555954,
+    "lon": -58.0483179,
+    "c1": "Doctor Leandro Zubiaurre",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2550908,
+    "lon": -58.0448605,
+    "c1": "Doctor Alfredo Alambarri",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.257318,
+    "lon": -58.0437528,
+    "c1": "Doctor Alfredo Alambarri",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2558193,
+    "lon": -58.048025,
+    "c1": "Doctor Enrique Costa Leonard",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2553156,
+    "lon": -58.0453825,
+    "c1": "Dolores Brusain (Lola)",
+    "c2": "Doctor E. Imas"
+  },
+  {
+    "lat": -33.255198,
+    "lon": -58.0457818,
+    "c1": "Dolores Brusain (Lola)",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.25501,
+    "lon": -58.0458663,
+    "c1": "Dolores Brusain (Lola)",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2548126,
+    "lon": -58.0451797,
+    "c1": "sin_nombre",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2549539,
+    "lon": -58.0450121,
+    "c1": "Doctor E. Imas",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2555214,
+    "lon": -58.045838,
+    "c1": "Doctor E. Imas",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2552903,
+    "lon": -58.0461545,
+    "c1": "Doctor E. Imas",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2550661,
+    "lon": -58.0461922,
+    "c1": "Doctor E. Imas",
+    "c2": "Ángela Erba"
+  },
+  {
+    "lat": -33.258261,
+    "lon": -58.0382437,
+    "c1": "sin_nombre",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2583128,
+    "lon": -58.0385852,
+    "c1": "1950 Maracaná",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2591678,
+    "lon": -58.0385088,
+    "c1": "1950 Maracaná",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2551586,
+    "lon": -58.0428122,
+    "c1": "Doctor José May",
+    "c2": "Doctora María Inés Alustiza"
+  },
+  {
+    "lat": -33.2552012,
+    "lon": -58.0419766,
+    "c1": "Doctor José May",
+    "c2": "Doctor Eduardo Irigaray"
+  },
+  {
+    "lat": -33.2552142,
+    "lon": -58.0416782,
+    "c1": "Doctor José May",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2552293,
+    "lon": -58.0413329,
+    "c1": "Doctor José May",
+    "c2": "Doctor Luis Méndez Aserito"
+  },
+  {
+    "lat": -33.2584081,
+    "lon": -58.0392396,
+    "c1": "sin_nombre",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2576129,
+    "lon": -58.0427134,
+    "c1": "Doctora María Inés Alustiza",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2576752,
+    "lon": -58.0420517,
+    "c1": "Del Cerro",
+    "c2": "Doctor Eduardo Irigaray"
+  },
+  {
+    "lat": -33.2578011,
+    "lon": -58.040777,
+    "c1": "Del Cerro",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2576331,
+    "lon": -58.0372753,
+    "c1": "sin_nombre",
+    "c2": "General Fructuoso Rivera"
+  },
+  {
+    "lat": -33.2580177,
+    "lon": -58.0420605,
+    "c1": "Doctor Eduardo Irigaray",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2707084,
+    "lon": -58.0205931,
+    "c1": "Facundo Alzola",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2696264,
+    "lon": -58.0218477,
+    "c1": "Facundo Alzola",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2692931,
+    "lon": -58.0233237,
+    "c1": "Facundo Alzola",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2691689,
+    "lon": -58.023831,
+    "c1": "Facundo Alzola",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2690799,
+    "lon": -58.0242305,
+    "c1": "Facundo Alzola",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2492016,
+    "lon": -58.0144845,
+    "c1": "Maestras Florez Novo",
+    "c2": "Este"
+  },
+  {
+    "lat": -33.2492405,
+    "lon": -58.0156955,
+    "c1": "Maestras Florez Novo",
+    "c2": "Maestra Juana Camino"
+  },
+  {
+    "lat": -33.2492739,
+    "lon": -58.0166079,
+    "c1": "Maestras Florez Novo",
+    "c2": "Maestra Isabel Rubio"
+  },
+  {
+    "lat": -33.2505312,
+    "lon": -58.0121854,
+    "c1": "Mario H. Segurola",
+    "c2": "Manuel Freire"
+  },
+  {
+    "lat": -33.2504909,
+    "lon": -58.0120433,
+    "c1": "Mario H. Segurola",
+    "c2": "Manuel Freire"
+  },
+  {
+    "lat": -33.2525893,
+    "lon": -58.0148676,
+    "c1": "sin_nombre",
+    "c2": "Profesor Juan Orlando Kelly"
+  },
+  {
+    "lat": -33.2526492,
+    "lon": -58.0158416,
+    "c1": "sin_nombre",
+    "c2": "Maestra Isabel Rubio"
+  },
+  {
+    "lat": -33.2522448,
+    "lon": -58.0149313,
+    "c1": "Profesor Juan Orlando Kelly",
+    "c2": "Profesora María Aída Vespa"
+  },
+  {
+    "lat": -33.2486766,
+    "lon": -58.0166221,
+    "c1": "sin_nombre",
+    "c2": "Maestra Isabel Rubio"
+  },
+  {
+    "lat": -33.2483913,
+    "lon": -58.0146872,
+    "c1": "sin_nombre",
+    "c2": "Este"
+  },
+  {
+    "lat": -33.2532073,
+    "lon": -58.0115766,
+    "c1": "Jacinto Trápani",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2530849,
+    "lon": -58.0111447,
+    "c1": "Jacinto Trápani",
+    "c2": "Manuel Freire"
+  },
+  {
+    "lat": -33.2531577,
+    "lon": -58.0109505,
+    "c1": "Jacinto Trápani",
+    "c2": "Manuel Freire"
+  },
+  {
+    "lat": -33.2532285,
+    "lon": -58.009884,
+    "c1": "Jacinto Trápani",
+    "c2": "Hermanos Spikerman"
+  },
+  {
+    "lat": -33.2533081,
+    "lon": -58.0087857,
+    "c1": "Jacinto Trápani",
+    "c2": "Carmelo Colmán"
+  },
+  {
+    "lat": -33.253317,
+    "lon": -58.0085971,
+    "c1": "Jacinto Trápani",
+    "c2": "Carmelo Colmán"
+  },
+  {
+    "lat": -33.2533989,
+    "lon": -58.0073668,
+    "c1": "Jacinto Trápani",
+    "c2": "Atanasio Sierra"
+  },
+  {
+    "lat": -33.2534585,
+    "lon": -58.0065562,
+    "c1": "Jacinto Trápani",
+    "c2": "Pablo Zufriátegui"
+  },
+  {
+    "lat": -33.2534792,
+    "lon": -58.0063064,
+    "c1": "Jacinto Trápani",
+    "c2": "Rojas"
+  },
+  {
+    "lat": -33.2491259,
+    "lon": -58.0127486,
+    "c1": "Manuel Freire",
+    "c2": "Avenida Agraciada"
+  },
+  {
+    "lat": -33.2497927,
+    "lon": -58.0124809,
+    "c1": "Manuel Freire",
+    "c2": "Simón del Pino"
+  },
+  {
+    "lat": -33.2514038,
+    "lon": -58.0118313,
+    "c1": "Manuel Freire",
+    "c2": "Basilio Araújo"
+  },
+  {
+    "lat": -33.2517458,
+    "lon": -58.0116945,
+    "c1": "Manuel Freire",
+    "c2": "Juan Ortíz"
+  },
+  {
+    "lat": -33.2522462,
+    "lon": -58.0114832,
+    "c1": "Manuel Freire",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2523704,
+    "lon": -58.0158491,
+    "c1": "Profesora María Aída Vespa",
+    "c2": "Maestra Isabel Rubio"
+  },
+  {
+    "lat": -33.2521866,
+    "lon": -58.0145323,
+    "c1": "Profesora María Aída Vespa",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2500331,
+    "lon": -58.0155088,
+    "c1": "Maestra Juana Camino",
+    "c2": "Maestra Sara Roura"
+  },
+  {
+    "lat": -33.2503282,
+    "lon": -58.0086086,
+    "c1": "Simón del Pino",
+    "c2": "Santiago Gadea"
+  },
+  {
+    "lat": -33.2501806,
+    "lon": -58.0095579,
+    "c1": "Simón del Pino",
+    "c2": "Carmelo Colmán"
+  },
+  {
+    "lat": -33.2501521,
+    "lon": -58.0097418,
+    "c1": "Simón del Pino",
+    "c2": "Carmelo Colmán"
+  },
+  {
+    "lat": -33.2499559,
+    "lon": -58.0109917,
+    "c1": "Simón del Pino",
+    "c2": "Juan Ortíz"
+  },
+  {
+    "lat": -33.2497629,
+    "lon": -58.0123278,
+    "c1": "Simón del Pino",
+    "c2": "Manuel Freire"
+  },
+  {
+    "lat": -33.2517072,
+    "lon": -58.0115542,
+    "c1": "Juan Ortíz",
+    "c2": "Manuel Freire"
+  },
+  {
+    "lat": -33.2513819,
+    "lon": -58.011416,
+    "c1": "Juan Ortíz",
+    "c2": "Basilio Araújo"
+  },
+  {
+    "lat": -33.250566,
+    "lon": -58.0111661,
+    "c1": "Juan Ortíz",
+    "c2": "Luciano Romero"
+  },
+  {
+    "lat": -33.2508273,
+    "lon": -58.0095394,
+    "c1": "Luciano Romero",
+    "c2": "Carmelo Colmán"
+  },
+  {
+    "lat": -33.2517425,
+    "lon": -58.0063582,
+    "c1": "Basilio Araújo",
+    "c2": "Pablo Zufriátegui"
+  },
+  {
+    "lat": -33.2516853,
+    "lon": -58.0072125,
+    "c1": "Basilio Araújo",
+    "c2": "Atanasio Sierra"
+  },
+  {
+    "lat": -33.2516126,
+    "lon": -58.0082025,
+    "c1": "Basilio Araújo",
+    "c2": "Santiago Gadea"
+  },
+  {
+    "lat": -33.2515476,
+    "lon": -58.0091339,
+    "c1": "Basilio Araújo",
+    "c2": "Carmelo Colmán"
+  },
+  {
+    "lat": -33.2515327,
+    "lon": -58.00931,
+    "c1": "Basilio Araújo",
+    "c2": "Carmelo Colmán"
+  },
+  {
+    "lat": -33.2514546,
+    "lon": -58.0104067,
+    "c1": "Basilio Araújo",
+    "c2": "Hermanos Spikerman"
+  },
+  {
+    "lat": -33.2513679,
+    "lon": -58.0116972,
+    "c1": "Basilio Araújo",
+    "c2": "Manuel Freire"
+  },
+  {
+    "lat": -33.2527659,
+    "lon": -58.0073136,
+    "c1": "Santiago Gadea",
+    "c2": "Atanasio Sierra"
+  },
+  {
+    "lat": -33.2509428,
+    "lon": -58.0084209,
+    "c1": "Santiago Gadea",
+    "c2": "Juan Rosas"
+  },
+  {
+    "lat": -33.2485736,
+    "lon": -58.0090464,
+    "c1": "Santiago Gadea",
+    "c2": "Avenida Agraciada"
+  },
+  {
+    "lat": -33.2540394,
+    "lon": -58.0062389,
+    "c1": "Felipe Carapé",
+    "c2": "Rojas"
+  },
+  {
+    "lat": -33.2539575,
+    "lon": -58.007415,
+    "c1": "Felipe Carapé",
+    "c2": "Atanasio Sierra"
+  },
+  {
+    "lat": -33.2539485,
+    "lon": -58.0075398,
+    "c1": "Felipe Carapé",
+    "c2": "Atanasio Sierra"
+  },
+  {
+    "lat": -33.2538868,
+    "lon": -58.0083981,
+    "c1": "Felipe Carapé",
+    "c2": "Carmelo Colmán"
+  },
+  {
+    "lat": -33.2506339,
+    "lon": -58.0062877,
+    "c1": "Juan Rosas",
+    "c2": "Pablo Zufriátegui"
+  },
+  {
+    "lat": -33.25058,
+    "lon": -58.0071138,
+    "c1": "Juan Rosas",
+    "c2": "Atanasio Sierra"
+  },
+  {
+    "lat": -33.2543674,
+    "lon": -58.0082095,
+    "c1": "Carmelo Colmán",
+    "c2": "Manuel Meléndez"
+  },
+  {
+    "lat": -33.2545486,
+    "lon": -58.006277,
+    "c1": "Rojas",
+    "c2": "Manuel Meléndez"
+  },
+  {
+    "lat": -33.2544487,
+    "lon": -58.0075786,
+    "c1": "Manuel Meléndez",
+    "c2": "Atanasio Sierra"
+  },
+  {
+    "lat": -33.2437075,
+    "lon": -58.0457639,
+    "c1": "sin_nombre",
+    "c2": "Avenida República Argentina"
+  },
+  {
+    "lat": -33.2436985,
+    "lon": -58.0456969,
+    "c1": "sin_nombre",
+    "c2": "Avenida República Argentina"
+  },
+  {
+    "lat": -33.2440648,
+    "lon": -58.0359288,
+    "c1": "sin_nombre",
+    "c2": "Avenida República Argentina"
+  },
+  {
+    "lat": -33.2440664,
+    "lon": -58.0439642,
+    "c1": "Avenida República Argentina",
+    "c2": "Domingo Ordoñana"
+  },
+  {
+    "lat": -33.2442485,
+    "lon": -58.0428252,
+    "c1": "Avenida República Argentina",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2446003,
+    "lon": -58.0393347,
+    "c1": "Avenida República Argentina",
+    "c2": "Domingo Ordoñana"
+  },
+  {
+    "lat": -33.2472775,
+    "lon": -58.0179632,
+    "c1": "sin_nombre",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2485996,
+    "lon": -58.0168132,
+    "c1": "sin_nombre",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2457382,
+    "lon": -58.0172913,
+    "c1": "sin_nombre",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2463683,
+    "lon": -58.0386003,
+    "c1": "Grito de Asencio",
+    "c2": "General Fructuoso Rivera"
+  },
+  {
+    "lat": -33.2461481,
+    "lon": -58.036904,
+    "c1": "Grito de Asencio",
+    "c2": "José Batlle y Ordóñez"
+  },
+  {
+    "lat": -33.2461282,
+    "lon": -58.0368097,
+    "c1": "Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2460461,
+    "lon": -58.0366261,
+    "c1": "Grito de Asencio",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2475039,
+    "lon": -58.0184724,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2471735,
+    "lon": -58.0176457,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2469136,
+    "lon": -58.0164091,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2467464,
+    "lon": -58.0160771,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2465436,
+    "lon": -58.0158504,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2464683,
+    "lon": -58.0157628,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2456585,
+    "lon": -58.014592,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.245595,
+    "lon": -58.0144522,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.244989,
+    "lon": -58.013075,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Andrés Cheveste"
+  },
+  {
+    "lat": -33.2446097,
+    "lon": -58.0124443,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2468861,
+    "lon": -58.0190302,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.246808,
+    "lon": -58.0185462,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2451261,
+    "lon": -58.019524,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2443098,
+    "lon": -58.0198584,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2436669,
+    "lon": -58.0209835,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2500617,
+    "lon": -58.0217465,
+    "c1": "Florencio Sánchez",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2502275,
+    "lon": -58.0227806,
+    "c1": "Florencio Sánchez",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2503797,
+    "lon": -58.0237142,
+    "c1": "Florencio Sánchez",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2507081,
+    "lon": -58.0257328,
+    "c1": "Florencio Sánchez",
+    "c2": "José Pedro Varela"
+  },
+  {
+    "lat": -33.2482537,
+    "lon": -58.0166156,
+    "c1": "Maestra Isabel Rubio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2501741,
+    "lon": -58.016394,
+    "c1": "Maestra Isabel Rubio",
+    "c2": "Maestra Sara Roura"
+  },
+  {
+    "lat": -33.2526805,
+    "lon": -58.0158484,
+    "c1": "Maestra Isabel Rubio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2477223,
+    "lon": -58.0189148,
+    "c1": "sin_nombre",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2477369,
+    "lon": -58.0186647,
+    "c1": "sin_nombre",
+    "c2": "General Gervasio Galarza"
+  },
+  {
+    "lat": -33.2475355,
+    "lon": -58.0187531,
+    "c1": "sin_nombre",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.2476423,
+    "lon": -58.0189312,
+    "c1": "sin_nombre",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.2483966,
+    "lon": -58.0183956,
+    "c1": "General Gervasio Galarza",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2483388,
+    "lon": -58.0184367,
+    "c1": "General Gervasio Galarza",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2436661,
+    "lon": -58.021308,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2436817,
+    "lon": -58.0214076,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2437264,
+    "lon": -58.0216771,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2482938,
+    "lon": -58.0147223,
+    "c1": "Este",
+    "c2": "Maestra Glafira Franzia"
+  },
+  {
+    "lat": -33.2489863,
+    "lon": -58.0144858,
+    "c1": "Este",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2498617,
+    "lon": -58.0144798,
+    "c1": "Este",
+    "c2": "Maestra Sara Roura"
+  },
+  {
+    "lat": -33.2503528,
+    "lon": -58.0143887,
+    "c1": "Este",
+    "c2": "Mario H. Segurola"
+  },
+  {
+    "lat": -33.2477821,
+    "lon": -58.0167972,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2486229,
+    "lon": -58.0187592,
+    "c1": "General Gervasio Galarza",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.245618,
+    "lon": -58.0173542,
+    "c1": "sin_nombre",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2446789,
+    "lon": -58.015178,
+    "c1": "sin_nombre",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2446969,
+    "lon": -58.0177627,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2434977,
+    "lon": -58.0193687,
+    "c1": "sin_nombre",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2437865,
+    "lon": -58.0176885,
+    "c1": "sin_nombre",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2447032,
+    "lon": -58.014158,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2446759,
+    "lon": -58.0148653,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2441956,
+    "lon": -58.0175429,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2435797,
+    "lon": -58.0183781,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2434539,
+    "lon": -58.0198467,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2432308,
+    "lon": -58.021486,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2432081,
+    "lon": -58.0216508,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2510247,
+    "lon": -58.0496915,
+    "c1": "sin_nombre",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2510387,
+    "lon": -58.0497219,
+    "c1": "sin_nombre",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2526986,
+    "lon": -58.0510886,
+    "c1": "Aparicio Saravia",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2529457,
+    "lon": -58.0509599,
+    "c1": "Aparicio Saravia",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2537612,
+    "lon": -58.0504629,
+    "c1": "Aparicio Saravia",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2547113,
+    "lon": -58.0494306,
+    "c1": "Aparicio Saravia",
+    "c2": "Gaspar González"
+  },
+  {
+    "lat": -33.2563457,
+    "lon": -58.0473295,
+    "c1": "Aparicio Saravia",
+    "c2": "Doctor E. Imas"
+  },
+  {
+    "lat": -33.2567718,
+    "lon": -58.0467484,
+    "c1": "Aparicio Saravia",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2573177,
+    "lon": -58.0453261,
+    "c1": "Aparicio Saravia",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2573348,
+    "lon": -58.0447961,
+    "c1": "Aparicio Saravia",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2576715,
+    "lon": -58.0426167,
+    "c1": "Aparicio Saravia",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2585336,
+    "lon": -58.041312,
+    "c1": "Aparicio Saravia",
+    "c2": "Camino Olazagaste"
+  },
+  {
+    "lat": -33.250661,
+    "lon": -58.0519491,
+    "c1": "Aparicio Saravia",
+    "c2": "Camino Julio Gil Méndez"
+  },
+  {
+    "lat": -33.2506955,
+    "lon": -58.0491747,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2490936,
+    "lon": -58.0483097,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "Paysandú"
+  },
+  {
+    "lat": -33.2478085,
+    "lon": -58.0483355,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "Rambla Francisco Mario Ubillos"
+  },
+  {
+    "lat": -33.2475989,
+    "lon": -58.0474591,
+    "c1": "Juan Zorrilla de San Martín",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2505806,
+    "lon": -58.0437953,
+    "c1": "Hernandarias",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2528192,
+    "lon": -58.0434028,
+    "c1": "Hernandarias",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2511372,
+    "lon": -58.0497097,
+    "c1": "sin_nombre",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2510984,
+    "lon": -58.0495857,
+    "c1": "sin_nombre",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2511994,
+    "lon": -58.0494838,
+    "c1": "sin_nombre",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2511992,
+    "lon": -58.0496259,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2446705,
+    "lon": -58.0482173,
+    "c1": "Rambla Francisco Mario Ubillos",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2463221,
+    "lon": -58.0444938,
+    "c1": "Rambla Francisco Mario Ubillos",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2508892,
+    "lon": -58.045967,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2508157,
+    "lon": -58.045431,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2491942,
+    "lon": -58.0461088,
+    "c1": "Paysandú",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2445633,
+    "lon": -58.0272019,
+    "c1": "José Pedro Varela",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2446897,
+    "lon": -58.0271384,
+    "c1": "José Pedro Varela",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2454669,
+    "lon": -58.0269548,
+    "c1": "José Pedro Varela",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.248027,
+    "lon": -58.0263609,
+    "c1": "José Pedro Varela",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2498044,
+    "lon": -58.0259417,
+    "c1": "José Pedro Varela",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2516169,
+    "lon": -58.0255047,
+    "c1": "José Pedro Varela",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.2553686,
+    "lon": -58.024599,
+    "c1": "José Pedro Varela",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2563019,
+    "lon": -58.024367,
+    "c1": "José Pedro Varela",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2567493,
+    "lon": -58.0242604,
+    "c1": "José Pedro Varela",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2591012,
+    "lon": -58.0237,
+    "c1": "José Pedro Varela",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.2437376,
+    "lon": -58.0213168,
+    "c1": "sin_nombre",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.2431561,
+    "lon": -58.0220833,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2431066,
+    "lon": -58.0234235,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2433703,
+    "lon": -58.0246354,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2435414,
+    "lon": -58.0253147,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2436937,
+    "lon": -58.0263626,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2437098,
+    "lon": -58.0264822,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "Tomás Gomensoro"
+  },
+  {
+    "lat": -33.2437566,
+    "lon": -58.0268416,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2444224,
+    "lon": -58.0261899,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2442767,
+    "lon": -58.0251893,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2441368,
+    "lon": -58.0241721,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2439928,
+    "lon": -58.0232151,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2438325,
+    "lon": -58.0221141,
+    "c1": "Doctor Luis Alberto de Herrera",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.244161,
+    "lon": -58.0294767,
+    "c1": "sin_nombre",
+    "c2": "Ituzaingó"
+  },
+  {
+    "lat": -33.2441005,
+    "lon": -58.0293427,
+    "c1": "sin_nombre",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2439771,
+    "lon": -58.0293374,
+    "c1": "sin_nombre",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2439614,
+    "lon": -58.0296351,
+    "c1": "sin_nombre",
+    "c2": "José Batlle y Ordóñez"
+  },
+  {
+    "lat": -33.2439825,
+    "lon": -58.0276517,
+    "c1": "José Pedro Varela",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2439011,
+    "lon": -58.0277206,
+    "c1": "José Pedro Varela",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2438149,
+    "lon": -58.0278041,
+    "c1": "José Pedro Varela",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.246052,
+    "lon": -58.0368222,
+    "c1": "sin_nombre",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2447459,
+    "lon": -58.0326617,
+    "c1": "sin_nombre",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.244271,
+    "lon": -58.0305481,
+    "c1": "sin_nombre",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2441508,
+    "lon": -58.0305711,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.244239,
+    "lon": -58.0311054,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2443191,
+    "lon": -58.031489,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2443383,
+    "lon": -58.0315824,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2443562,
+    "lon": -58.0316279,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2446546,
+    "lon": -58.0326942,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2451627,
+    "lon": -58.0350102,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2451775,
+    "lon": -58.0350665,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2452727,
+    "lon": -58.0353547,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2454526,
+    "lon": -58.0357891,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.245727,
+    "lon": -58.0365497,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2447025,
+    "lon": -58.0282306,
+    "c1": "General Manuel Oribe",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2440759,
+    "lon": -58.0283509,
+    "c1": "General Manuel Oribe",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2439844,
+    "lon": -58.0283685,
+    "c1": "General Manuel Oribe",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2432024,
+    "lon": -58.0234033,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2439124,
+    "lon": -58.0232343,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2449248,
+    "lon": -58.0230038,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2473996,
+    "lon": -58.0223875,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2491531,
+    "lon": -58.02196,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2509978,
+    "lon": -58.0215199,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "Doctor Manuel Ferreira"
+  },
+  {
+    "lat": -33.2548171,
+    "lon": -58.0206051,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2557193,
+    "lon": -58.0203919,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2599092,
+    "lon": -58.0194247,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2452489,
+    "lon": -58.0325734,
+    "c1": "18 de Julio",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2445544,
+    "lon": -58.0315131,
+    "c1": "sin_nombre",
+    "c2": "Cristóbal Colón"
+  },
+  {
+    "lat": -33.2460651,
+    "lon": -58.0369264,
+    "c1": "José Batlle y Ordóñez",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.2687942,
+    "lon": -58.0231735,
+    "c1": "Santa Lucía",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2691161,
+    "lon": -58.0216964,
+    "c1": "Santa Lucía",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2674587,
+    "lon": -58.0227672,
+    "c1": "Cufré",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2677818,
+    "lon": -58.0212846,
+    "c1": "Cufré",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2670191,
+    "lon": -58.0226317,
+    "c1": "Las Piedras",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.267905,
+    "lon": -58.022904,
+    "c1": "Cuareim",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2682255,
+    "lon": -58.0214246,
+    "c1": "Cuareim",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2683501,
+    "lon": -58.0230414,
+    "c1": "Daymán",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2686693,
+    "lon": -58.0215588,
+    "c1": "Daymán",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2673364,
+    "lon": -58.0211611,
+    "c1": "sin_nombre",
+    "c2": "Las Piedras"
+  },
+  {
+    "lat": -33.2703414,
+    "lon": -58.0312527,
+    "c1": "18 de Julio",
+    "c2": "Coronel Máximo Pérez"
+  },
+  {
+    "lat": -33.2693779,
+    "lon": -58.0309598,
+    "c1": "18 de Julio",
+    "c2": "Andresito"
+  },
+  {
+    "lat": -33.2673364,
+    "lon": -58.0303502,
+    "c1": "18 de Julio",
+    "c2": "28 de Febrero"
+  },
+  {
+    "lat": -33.2645473,
+    "lon": -58.0295428,
+    "c1": "18 de Julio",
+    "c2": "Proyectada No. 2"
+  },
+  {
+    "lat": -33.2537842,
+    "lon": -58.0389139,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "21 de Setiembre"
+  },
+  {
+    "lat": -33.2531953,
+    "lon": -58.0353338,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2528189,
+    "lon": -58.0329812,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2526475,
+    "lon": -58.0319519,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "Eduardo Víctor Haedo"
+  },
+  {
+    "lat": -33.2524502,
+    "lon": -58.0308359,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2521186,
+    "lon": -58.0287444,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2517675,
+    "lon": -58.0265626,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2513172,
+    "lon": -58.0234723,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2511665,
+    "lon": -58.0225581,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2508131,
+    "lon": -58.0204022,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2506416,
+    "lon": -58.0193559,
+    "c1": "Doctor Manuel Ferreira",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2463566,
+    "lon": -58.0331989,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2490027,
+    "lon": -58.0327099,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2500271,
+    "lon": -58.0325194,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2509103,
+    "lon": -58.0323313,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2517631,
+    "lon": -58.0321407,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2563505,
+    "lon": -58.0311804,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2572618,
+    "lon": -58.0310041,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2599612,
+    "lon": -58.0304486,
+    "c1": "Eduardo Víctor Haedo",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.2455814,
+    "lon": -58.035183,
+    "c1": "Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2455067,
+    "lon": -58.0345933,
+    "c1": "Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.245499,
+    "lon": -58.0345212,
+    "c1": "Grito de Asencio",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2452329,
+    "lon": -58.0324124,
+    "c1": "Grito de Asencio",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2450918,
+    "lon": -58.0312381,
+    "c1": "Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2445539,
+    "lon": -58.0271343,
+    "c1": "Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2444464,
+    "lon": -58.0263592,
+    "c1": "Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2461045,
+    "lon": -58.0372621,
+    "c1": "Grito de Asencio",
+    "c2": "José Batlle y Ordóñez"
+  },
+  {
+    "lat": -33.2463112,
+    "lon": -58.038589,
+    "c1": "Grito de Asencio",
+    "c2": "General Fructuoso Rivera"
+  },
+  {
+    "lat": -33.259932,
+    "lon": -58.019578,
+    "c1": "Idiarte Borda",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2603637,
+    "lon": -58.0194874,
+    "c1": "Idiarte Borda",
+    "c2": "Treinta y Tres"
+  },
+  {
+    "lat": -33.2625959,
+    "lon": -58.0205792,
+    "c1": "Idiarte Borda",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2630744,
+    "lon": -58.0212066,
+    "c1": "Idiarte Borda",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2502821,
+    "lon": -58.0287072,
+    "c1": "José Enrique Rodó",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2502557,
+    "lon": -58.0285478,
+    "c1": "José Enrique Rodó",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2499867,
+    "lon": -58.0270058,
+    "c1": "José Enrique Rodó",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.249478,
+    "lon": -58.0239553,
+    "c1": "José Enrique Rodó",
+    "c2": "Doctor Manuel Herrero y Espinosa"
+  },
+  {
+    "lat": -33.2493182,
+    "lon": -58.0229881,
+    "c1": "José Enrique Rodó",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2489654,
+    "lon": -58.0208636,
+    "c1": "José Enrique Rodó",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2487919,
+    "lon": -58.0197933,
+    "c1": "José Enrique Rodó",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2452005,
+    "lon": -58.025005,
+    "c1": "Doctor Manuel Herrero y Espinosa",
+    "c2": "Ricardo Detomasi"
+  },
+  {
+    "lat": -33.2477162,
+    "lon": -58.024412,
+    "c1": "Doctor Manuel Herrero y Espinosa",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2550742,
+    "lon": -58.0225097,
+    "c1": "Doctor Manuel Herrero y Espinosa",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.255991,
+    "lon": -58.0222848,
+    "c1": "Doctor Manuel Herrero y Espinosa",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.2573944,
+    "lon": -58.0187943,
+    "c1": "Pedro Hors",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2447635,
+    "lon": -58.0218991,
+    "c1": "Ricardo Detomasi",
+    "c2": "Coronel Tomás Gómez"
+  },
+  {
+    "lat": -33.2450559,
+    "lon": -58.0239555,
+    "c1": "Ricardo Detomasi",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2454593,
+    "lon": -58.0269011,
+    "c1": "Ricardo Detomasi",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2456286,
+    "lon": -58.0280518,
+    "c1": "Ricardo Detomasi",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.246216,
+    "lon": -58.0322104,
+    "c1": "Ricardo Detomasi",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2465184,
+    "lon": -58.0343127,
+    "c1": "Ricardo Detomasi",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2468155,
+    "lon": -58.0364547,
+    "c1": "Ricardo Detomasi",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2443125,
+    "lon": -58.0263133,
+    "c1": "Tomás Gomensoro",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2438257,
+    "lon": -58.02645,
+    "c1": "Tomás Gomensoro",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2472324,
+    "lon": -58.0212978,
+    "c1": "Coronel Tomás Gómez",
+    "c2": "Presbítero Manuel Antonio De Castro y Careaga"
+  },
+  {
+    "lat": -33.2498867,
+    "lon": -58.0206328,
+    "c1": "Coronel Tomás Gómez",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2546541,
+    "lon": -58.0194688,
+    "c1": "Coronel Tomás Gómez",
+    "c2": "Eduardo Casagrande"
+  },
+  {
+    "lat": -33.2555521,
+    "lon": -58.0192491,
+    "c1": "Coronel Tomás Gómez",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.258882,
+    "lon": -58.0415914,
+    "c1": "Camino Olazagaste",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2595242,
+    "lon": -58.0421228,
+    "c1": "Camino Olazagaste",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2639763,
+    "lon": -58.0435644,
+    "c1": "Camino Olazagaste",
+    "c2": "Alegría"
+  },
+  {
+    "lat": -33.2658715,
+    "lon": -58.0437329,
+    "c1": "Camino Olazagaste",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2646118,
+    "lon": -58.0389786,
+    "c1": "Jazmín",
+    "c2": "Alegría"
+  },
+  {
+    "lat": -33.2648994,
+    "lon": -58.0370466,
+    "c1": "Mayo",
+    "c2": "Alegría"
+  },
+  {
+    "lat": -33.2659928,
+    "lon": -58.0374346,
+    "c1": "Mayo",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2661513,
+    "lon": -58.0375144,
+    "c1": "Mayo",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2667241,
+    "lon": -58.0378145,
+    "c1": "Mayo",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2669642,
+    "lon": -58.0379411,
+    "c1": "Mayo",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2644801,
+    "lon": -58.0399257,
+    "c1": "Clavel",
+    "c2": "Alegría"
+  },
+  {
+    "lat": -33.2456894,
+    "lon": -58.0356728,
+    "c1": "sin_nombre",
+    "c2": "Grito de Asencio"
+  },
+  {
+    "lat": -33.264211,
+    "lon": -58.0418692,
+    "c1": "Madreselva",
+    "c2": "Alegría"
+  },
+  {
+    "lat": -33.244231,
+    "lon": -58.0294592,
+    "c1": "Ituzaingó",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2634058,
+    "lon": -58.0336263,
+    "c1": "Santa Rita",
+    "c2": "Rosas"
+  },
+  {
+    "lat": -33.2652903,
+    "lon": -58.0342157,
+    "c1": "Santa Rita",
+    "c2": "Alegría"
+  },
+  {
+    "lat": -33.2668557,
+    "lon": -58.03488,
+    "c1": "Santa Rita",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2531954,
+    "lon": -58.0457227,
+    "c1": "José Enrique Rodó",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2431985,
+    "lon": -58.0217341,
+    "c1": "sin_nombre",
+    "c2": "Rambla Carlos Federico Saez"
+  },
+  {
+    "lat": -33.2675434,
+    "lon": -58.0362158,
+    "c1": "Pensamiento",
+    "c2": "Mayo"
+  },
+  {
+    "lat": -33.2671223,
+    "lon": -58.0359979,
+    "c1": "Pensamiento",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2668955,
+    "lon": -58.0358855,
+    "c1": "Pensamiento",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2665294,
+    "lon": -58.0356737,
+    "c1": "Pensamiento",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2651533,
+    "lon": -58.035131,
+    "c1": "Pensamiento",
+    "c2": "Alegría"
+  },
+  {
+    "lat": -33.2632985,
+    "lon": -58.0344938,
+    "c1": "Pensamiento",
+    "c2": "Rosas"
+  },
+  {
+    "lat": -33.2654262,
+    "lon": -58.0332787,
+    "c1": "Alegría",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2629196,
+    "lon": -58.0180421,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "Camino de los Argentinos"
+  },
+  {
+    "lat": -33.2627305,
+    "lon": -58.0178289,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.262691,
+    "lon": -58.017719,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2627505,
+    "lon": -58.017401,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2627677,
+    "lon": -58.0173858,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.263677,
+    "lon": -58.0168774,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2624835,
+    "lon": -58.0173877,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2645656,
+    "lon": -58.0183321,
+    "c1": "Camino de los Argentinos",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2674368,
+    "lon": -58.0188065,
+    "c1": "Camino de los Argentinos",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2699052,
+    "lon": -58.0193104,
+    "c1": "Camino de los Argentinos",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2705754,
+    "lon": -58.0203781,
+    "c1": "Camino de los Argentinos",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.262443,
+    "lon": -58.0170137,
+    "c1": "La Paloma",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2630964,
+    "lon": -58.0138256,
+    "c1": "La Paloma",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2624332,
+    "lon": -58.0170307,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2627248,
+    "lon": -58.0169327,
+    "c1": "La Paloma",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.263706,
+    "lon": -58.016756,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.262741,
+    "lon": -58.0169432,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2373948,
+    "lon": -58.0338712,
+    "c1": "Camino Departamental",
+    "c2": "A Ruta 2"
+  },
+  {
+    "lat": -33.2371546,
+    "lon": -58.0341592,
+    "c1": "Camino Departamental",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2362291,
+    "lon": -58.0352691,
+    "c1": "Camino Departamental",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2351427,
+    "lon": -58.0363337,
+    "c1": "Camino Departamental",
+    "c2": "Los Guayabos"
+  },
+  {
+    "lat": -33.2348622,
+    "lon": -58.0364523,
+    "c1": "Camino Departamental",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2340916,
+    "lon": -58.0367321,
+    "c1": "Camino Departamental",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2331408,
+    "lon": -58.0370406,
+    "c1": "Camino Departamental",
+    "c2": "Los Jilgueros"
+  },
+  {
+    "lat": -33.2329402,
+    "lon": -58.0371057,
+    "c1": "Camino Departamental",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2382368,
+    "lon": -58.0332245,
+    "c1": "Los Arrayanes",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.238507,
+    "lon": -58.0335071,
+    "c1": "Los Arrayanes",
+    "c2": "Los Robles"
+  },
+  {
+    "lat": -33.2386919,
+    "lon": -58.0336794,
+    "c1": "Los Arrayanes",
+    "c2": "Los Robles"
+  },
+  {
+    "lat": -33.2393735,
+    "lon": -58.0364377,
+    "c1": "Los Arrayanes",
+    "c2": "Los Horneros"
+  },
+  {
+    "lat": -33.2394806,
+    "lon": -58.0366281,
+    "c1": "Los Arrayanes",
+    "c2": "Los Horneros"
+  },
+  {
+    "lat": -33.2394873,
+    "lon": -58.0379619,
+    "c1": "Los Arrayanes",
+    "c2": "Los Zorzales"
+  },
+  {
+    "lat": -33.2390193,
+    "lon": -58.0403991,
+    "c1": "Los Arrayanes",
+    "c2": "Los Ceibos"
+  },
+  {
+    "lat": -33.2388809,
+    "lon": -58.0406223,
+    "c1": "Los Arrayanes",
+    "c2": "Los Ceibos"
+  },
+  {
+    "lat": -33.237981,
+    "lon": -58.0410148,
+    "c1": "Los Arrayanes",
+    "c2": "Los Fresnos"
+  },
+  {
+    "lat": -33.2378258,
+    "lon": -58.0410198,
+    "c1": "Los Arrayanes",
+    "c2": "Los Fresnos"
+  },
+  {
+    "lat": -33.237091,
+    "lon": -58.0410247,
+    "c1": "Los Arrayanes",
+    "c2": "Los Molles"
+  },
+  {
+    "lat": -33.2351259,
+    "lon": -58.0366054,
+    "c1": "Los Cardenales",
+    "c2": "Los Guayabos"
+  },
+  {
+    "lat": -33.2374489,
+    "lon": -58.0358299,
+    "c1": "Los Cardenales",
+    "c2": "Los Robles"
+  },
+  {
+    "lat": -33.2331932,
+    "lon": -58.0372513,
+    "c1": "Los Cardenales",
+    "c2": "Los Jilgueros"
+  },
+  {
+    "lat": -33.234137,
+    "lon": -58.0369469,
+    "c1": "Los Cardenales",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2375382,
+    "lon": -58.0356641,
+    "c1": "Los Ceibos",
+    "c2": "Los Robles"
+  },
+  {
+    "lat": -33.2383324,
+    "lon": -58.036904,
+    "c1": "Los Ceibos",
+    "c2": "Los Horneros"
+  },
+  {
+    "lat": -33.2385499,
+    "lon": -58.0382494,
+    "c1": "Los Ceibos",
+    "c2": "Los Zorzales"
+  },
+  {
+    "lat": -33.2375244,
+    "lon": -58.0386044,
+    "c1": "Los Fresnos",
+    "c2": "Los Zorzales"
+  },
+  {
+    "lat": -33.2375016,
+    "lon": -58.0384405,
+    "c1": "Los Fresnos",
+    "c2": "Los Talas"
+  },
+  {
+    "lat": -33.237312,
+    "lon": -58.0372423,
+    "c1": "Los Fresnos",
+    "c2": "Los Horneros"
+  },
+  {
+    "lat": -33.2371611,
+    "lon": -58.0363649,
+    "c1": "Los Fresnos",
+    "c2": "Los Robles"
+  },
+  {
+    "lat": -33.2342861,
+    "lon": -58.0382752,
+    "c1": "Los Guayabos",
+    "c2": "Los Horneros"
+  },
+  {
+    "lat": -33.2365506,
+    "lon": -58.0374996,
+    "c1": "Los Horneros",
+    "c2": "Los Robles"
+  },
+  {
+    "lat": -33.237151,
+    "lon": -58.0372967,
+    "c1": "Los Horneros",
+    "c2": "Los Fresnos"
+  },
+  {
+    "lat": -33.235482,
+    "lon": -58.0394418,
+    "c1": "Los Jilgueros",
+    "c2": "Los Molles"
+  },
+  {
+    "lat": -33.2354011,
+    "lon": -58.0391439,
+    "c1": "Los Jilgueros",
+    "c2": "Los Zorzales"
+  },
+  {
+    "lat": -33.2364939,
+    "lon": -58.0401446,
+    "c1": "Los Molles",
+    "c2": "Los Talas"
+  },
+  {
+    "lat": -33.2356474,
+    "lon": -58.0391258,
+    "c1": "Los Robles",
+    "c2": "Los Zorzales"
+  },
+  {
+    "lat": -33.2374246,
+    "lon": -58.0386389,
+    "c1": "Los Zorzales",
+    "c2": "Los Talas"
+  },
+  {
+    "lat": -33.2736105,
+    "lon": -58.0127759,
+    "c1": "sin_nombre",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2677013,
+    "lon": -58.0153927,
+    "c1": "sin_nombre",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2318759,
+    "lon": -58.0231763,
+    "c1": "A Ruta 2",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2337613,
+    "lon": -58.025089,
+    "c1": "A Ruta 2",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2342425,
+    "lon": -58.0255599,
+    "c1": "A Ruta 2",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2378445,
+    "lon": -58.0302615,
+    "c1": "A Ruta 2",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2376698,
+    "lon": -58.0309569,
+    "c1": "A Ruta 2",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2377057,
+    "lon": -58.0333599,
+    "c1": "sin_nombre",
+    "c2": "A Ruta 2"
+  },
+  {
+    "lat": -33.2376873,
+    "lon": -58.0334302,
+    "c1": "sin_nombre",
+    "c2": "A Ruta 2"
+  },
+  {
+    "lat": -33.2376713,
+    "lon": -58.0324591,
+    "c1": "A Ruta 2",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2416871,
+    "lon": -58.0191277,
+    "c1": "sin_nombre",
+    "c2": "Río Negro"
+  },
+  {
+    "lat": -33.2753114,
+    "lon": -58.0049608,
+    "c1": "A Lo De Gandolfo",
+    "c2": "Pense"
+  },
+  {
+    "lat": -33.2724474,
+    "lon": -57.9977878,
+    "c1": "A Lo De Gandolfo",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2677747,
+    "lon": -57.9960934,
+    "c1": "A Lo De Gandolfo",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2348608,
+    "lon": -58.003442,
+    "c1": "Camino Cantoni",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2362841,
+    "lon": -58.0015773,
+    "c1": "Camino Cantoni",
+    "c2": "Pamer"
+  },
+  {
+    "lat": -33.2364103,
+    "lon": -58.0015085,
+    "c1": "Camino Cantoni",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2755615,
+    "lon": -58.0051663,
+    "c1": "sin_nombre",
+    "c2": "Pense"
+  },
+  {
+    "lat": -33.2678178,
+    "lon": -58.0153514,
+    "c1": "sin_nombre",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2709837,
+    "lon": -58.0034025,
+    "c1": "sin_nombre",
+    "c2": "Pense"
+  },
+  {
+    "lat": -33.2364039,
+    "lon": -58.0007149,
+    "c1": "sin_nombre",
+    "c2": "Pamer"
+  },
+  {
+    "lat": -33.2663556,
+    "lon": -58.0017676,
+    "c1": "sin_nombre",
+    "c2": "Pense"
+  },
+  {
+    "lat": -33.2451566,
+    "lon": -58.0004713,
+    "c1": "sin_nombre",
+    "c2": "Cañada Novillos"
+  },
+  {
+    "lat": -33.2219473,
+    "lon": -58.0157052,
+    "c1": "sin_nombre",
+    "c2": "Río Negro"
+  },
+  {
+    "lat": -33.2368122,
+    "lon": -58.0104758,
+    "c1": "sin_nombre",
+    "c2": "Río Negro"
+  },
+  {
+    "lat": -33.244962,
+    "lon": -58.0006054,
+    "c1": "Cañada Novillos",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2450693,
+    "lon": -58.0005631,
+    "c1": "sin_nombre",
+    "c2": "Cañada Novillos"
+  },
+  {
+    "lat": -33.2637617,
+    "lon": -58.0113675,
+    "c1": "sin_nombre",
+    "c2": "La Paloma"
+  },
+  {
+    "lat": -33.2718011,
+    "lon": -58.0265065,
+    "c1": "sin_nombre",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2745597,
+    "lon": -58.0122941,
+    "c1": "sin_nombre",
+    "c2": "Ruta 2 Grito de Asencio"
+  },
+  {
+    "lat": -33.2705077,
+    "lon": -58.0142837,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2687418,
+    "lon": -58.0150303,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2666011,
+    "lon": -58.0157876,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2480022,
+    "lon": -58.0052735,
+    "c1": "Avenida Agraciada",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2486544,
+    "lon": -58.0096601,
+    "c1": "Avenida Agraciada",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2487501,
+    "lon": -58.0103715,
+    "c1": "Avenida Agraciada",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2488282,
+    "lon": -58.0109105,
+    "c1": "Avenida Agraciada",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2489964,
+    "lon": -58.0118854,
+    "c1": "Avenida Agraciada",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2491021,
+    "lon": -58.0125907,
+    "c1": "Avenida Agraciada",
+    "c2": "Manuel Freire"
+  },
+  {
+    "lat": -33.2409728,
+    "lon": -58.0037839,
+    "c1": "Camino Cantoni",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2440023,
+    "lon": -58.0037098,
+    "c1": "Camino Cantoni",
+    "c2": "Camino Elías Regules"
+  },
+  {
+    "lat": -33.2437598,
+    "lon": -58.0039556,
+    "c1": "Camino Cantoni",
+    "c2": "Camino Elías Regules"
+  },
+  {
+    "lat": -33.2442757,
+    "lon": -58.0098967,
+    "c1": "Camino Elías Regules",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2441479,
+    "lon": -58.0089368,
+    "c1": "Camino Elías Regules",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2439373,
+    "lon": -58.0072714,
+    "c1": "Camino Elías Regules",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2439152,
+    "lon": -58.0070959,
+    "c1": "Camino Elías Regules",
+    "c2": "Calle 1"
+  },
+  {
+    "lat": -33.2438804,
+    "lon": -58.0067989,
+    "c1": "Camino Elías Regules",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2437522,
+    "lon": -58.0057975,
+    "c1": "Camino Elías Regules",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2479232,
+    "lon": -58.0020223,
+    "c1": "Camino del Águila",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2698424,
+    "lon": -58.0342598,
+    "c1": "Coronel Máximo Pérez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2612715,
+    "lon": -58.0176364,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2781683,
+    "lon": -58.0369449,
+    "c1": "sin_nombre",
+    "c2": "Ruta 21"
+  },
+  {
+    "lat": -33.2503721,
+    "lon": -58.0142005,
+    "c1": "sin_nombre",
+    "c2": "Mario H. Segurola"
+  },
+  {
+    "lat": -33.2374337,
+    "lon": -58.0107549,
+    "c1": "Cañada Novillos",
+    "c2": "Río Negro"
+  },
+  {
+    "lat": -33.2554653,
+    "lon": -58.0174255,
+    "c1": "sin_nombre",
+    "c2": "Don Bosco"
+  },
+  {
+    "lat": -33.258106,
+    "lon": -58.0371378,
+    "c1": "Don Bosco",
+    "c2": "General Fructuoso Rivera"
+  },
+  {
+    "lat": -33.2577263,
+    "lon": -58.0345194,
+    "c1": "Don Bosco",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2574088,
+    "lon": -58.0320954,
+    "c1": "Don Bosco",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2570907,
+    "lon": -58.0297855,
+    "c1": "Don Bosco",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2567992,
+    "lon": -58.0276601,
+    "c1": "Don Bosco",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.256464,
+    "lon": -58.0253877,
+    "c1": "Don Bosco",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2558669,
+    "lon": -58.0214138,
+    "c1": "Don Bosco",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2554046,
+    "lon": -58.0181756,
+    "c1": "Don Bosco",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2545057,
+    "lon": -58.0184021,
+    "c1": "Eduardo Casagrande",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2549576,
+    "lon": -58.0216425,
+    "c1": "Eduardo Casagrande",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2555249,
+    "lon": -58.0256252,
+    "c1": "Eduardo Casagrande",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2558584,
+    "lon": -58.0278752,
+    "c1": "Eduardo Casagrande",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2561733,
+    "lon": -58.0299833,
+    "c1": "Eduardo Casagrande",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2565084,
+    "lon": -58.0322411,
+    "c1": "Eduardo Casagrande",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2568636,
+    "lon": -58.0346755,
+    "c1": "Eduardo Casagrande",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2499121,
+    "lon": -58.0392086,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "21 de Setiembre"
+  },
+  {
+    "lat": -33.2494524,
+    "lon": -58.0359283,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "Doctor Mario Cassinoni"
+  },
+  {
+    "lat": -33.2491491,
+    "lon": -58.0337676,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2488573,
+    "lon": -58.0316664,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2486654,
+    "lon": -58.0304464,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2485644,
+    "lon": -58.0297451,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2481996,
+    "lon": -58.0274591,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2475635,
+    "lon": -58.0234032,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2470648,
+    "lon": -58.0201932,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "Joaquín Suárez"
+  },
+  {
+    "lat": -33.2468935,
+    "lon": -58.0190932,
+    "c1": "Presbítero Manuel Antonio De Castro y Careaga",
+    "c2": "Doctor Luis Alberto de Herrera"
+  },
+  {
+    "lat": -33.2587883,
+    "lon": -58.0215878,
+    "c1": "Doctor Manuel Herrero y Espinosa",
+    "c2": "General Garibaldi"
+  },
+  {
+    "lat": -33.252323,
+    "lon": -58.0354918,
+    "c1": "Doctor Mario Cassinoni",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2514802,
+    "lon": -58.0356202,
+    "c1": "Doctor Mario Cassinoni",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2505779,
+    "lon": -58.0357532,
+    "c1": "Doctor Mario Cassinoni",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2461885,
+    "lon": -58.0365944,
+    "c1": "Doctor Mario Cassinoni",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2598024,
+    "lon": -58.029196,
+    "c1": "General Garibaldi",
+    "c2": "18 de Julio"
+  },
+  {
+    "lat": -33.2595286,
+    "lon": -58.0270356,
+    "c1": "General Garibaldi",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.259243,
+    "lon": -58.024675,
+    "c1": "General Garibaldi",
+    "c2": "General Manuel Oribe"
+  },
+  {
+    "lat": -33.2586819,
+    "lon": -58.0207893,
+    "c1": "General Garibaldi",
+    "c2": "Zapicán"
+  },
+  {
+    "lat": -33.2512402,
+    "lon": -58.0289515,
+    "c1": "General José Artigas",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2508817,
+    "lon": -58.0267812,
+    "c1": "General Manuel Oribe",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2448245,
+    "lon": -58.028207,
+    "c1": "General Manuel Oribe",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2636449,
+    "lon": -58.0250506,
+    "c1": "Ituzaingó",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2497086,
+    "lon": -58.0195765,
+    "c1": "Joaquín Suárez",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2602384,
+    "lon": -58.029093,
+    "c1": "18 de Julio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2515792,
+    "lon": -58.0310407,
+    "c1": "18 de Julio",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2507183,
+    "lon": -58.0312406,
+    "c1": "18 de Julio",
+    "c2": "José Enrique Rodó"
+  },
+  {
+    "lat": -33.2498418,
+    "lon": -58.0314488,
+    "c1": "18 de Julio",
+    "c2": "Wilson Ferreira Aldunate"
+  },
+  {
+    "lat": -33.2520557,
+    "lon": -58.0390502,
+    "c1": "21 de Setiembre",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2529292,
+    "lon": -58.0389783,
+    "c1": "21 de Setiembre",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2519427,
+    "lon": -58.0331784,
+    "c1": "28 de Febrero de 1811",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2522351,
+    "lon": -58.0458161,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "Ingeniero Carlos A. Magnone"
+  },
+  {
+    "lat": -33.2524616,
+    "lon": -58.0471684,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2559668,
+    "lon": -58.0446666,
+    "c1": "Ingeniero Carlos A. Magnone",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2534686,
+    "lon": -58.0421592,
+    "c1": "Florencio Sánchez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2536719,
+    "lon": -58.043265,
+    "c1": "Florencio Sánchez",
+    "c2": "Hernandarias"
+  },
+  {
+    "lat": -33.2451785,
+    "lon": -58.0429241,
+    "c1": "Domingo Ordoñana",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2434913,
+    "lon": -58.0070605,
+    "c1": "Calle 1",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2432706,
+    "lon": -58.0071461,
+    "c1": "Calle 1",
+    "c2": "Calle 2"
+  },
+  {
+    "lat": -33.2427605,
+    "lon": -58.0075311,
+    "c1": "Calle 1",
+    "c2": "Calle 4"
+  },
+  {
+    "lat": -33.2421184,
+    "lon": -58.0080257,
+    "c1": "Calle 1",
+    "c2": "Calle 5"
+  },
+  {
+    "lat": -33.2416826,
+    "lon": -58.0085468,
+    "c1": "Calle 1",
+    "c2": "Calle 6"
+  },
+  {
+    "lat": -33.2421081,
+    "lon": -58.0065773,
+    "c1": "Calle 4",
+    "c2": "Calle 3"
+  },
+  {
+    "lat": -33.2635477,
+    "lon": -58.0326839,
+    "c1": "Rosas",
+    "c2": "Bulevar Viera y Benavídez"
+  },
+  {
+    "lat": -33.2589094,
+    "lon": -58.0370364,
+    "c1": "General Fructuoso Rivera",
+    "c2": "Aparicio Saravia"
+  },
+  {
+    "lat": -33.2430491,
+    "lon": -58.00586,
+    "c1": "Calle 2",
+    "c2": "Calle 3"
+  },
+  {
+    "lat": -33.2430675,
+    "lon": -58.0049136,
+    "c1": "Calle 2",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2428913,
+    "lon": -58.0041983,
+    "c1": "Calle 2",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2421898,
+    "lon": -58.0063721,
+    "c1": "Calle 3",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2617606,
+    "lon": -58.0186229,
+    "c1": "sin_nombre",
+    "c2": "Juan Antonio Lavalleja"
+  },
+  {
+    "lat": -33.2621782,
+    "lon": -58.0182691,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2459682,
+    "lon": -58.0364179,
+    "c1": "Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2381936,
+    "lon": -58.0188247,
+    "c1": "Ruta 2 Grito de Asencio",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2625399,
+    "lon": -58.017722,
+    "c1": "sin_nombre",
+    "c2": "Camino de los Argentinos"
+  },
+  {
+    "lat": -33.2482902,
+    "lon": -58.0147977,
+    "c1": "Maestra Glafira Franzia",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2483605,
+    "lon": -58.0188042,
+    "c1": "General Gervasio Galarza",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2781197,
+    "lon": -58.0369603,
+    "c1": "Ruta 21",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2711536,
+    "lon": -58.0347382,
+    "c1": "Ruta 21",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2626231,
+    "lon": -58.0179674,
+    "c1": "sin_nombre",
+    "c2": "Camino de los Argentinos"
+  },
+  {
+    "lat": -33.2625452,
+    "lon": -58.017821,
+    "c1": "Juan Antonio Lavalleja",
+    "c2": "Camino de los Argentinos"
+  },
+  {
+    "lat": -33.269571,
+    "lon": -58.029671,
+    "c1": "Cristóbal Colón",
+    "c2": "Andresito"
+  },
+  {
+    "lat": -33.2705467,
+    "lon": -58.0299515,
+    "c1": "Cristóbal Colón",
+    "c2": "Coronel Máximo Pérez"
+  },
+  {
+    "lat": -33.2558545,
+    "lon": -58.0452682,
+    "c1": "sin_nombre",
+    "c2": "Dolores Brusain (Lola)"
+  },
+  {
+    "lat": -33.2503712,
+    "lon": -58.0141602,
+    "c1": "Mario H. Segurola",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2560559,
+    "lon": -58.0387604,
+    "c1": "1924 Colombes",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.24409,
+    "lon": -58.0292596,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.244001,
+    "lon": -58.0285166,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2438717,
+    "lon": -58.0276239,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.243833,
+    "lon": -58.0276644,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2439091,
+    "lon": -58.0285357,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2439938,
+    "lon": -58.0292425,
+    "c1": "Rambla Carlos Federico Saez",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2491107,
+    "lon": -58.0170272,
+    "c1": "sin_nombre",
+    "c2": "Maestra Leila Tuya"
+  },
+  {
+    "lat": -33.2533707,
+    "lon": -58.0416148,
+    "c1": "sin_nombre",
+    "c2": "Florencio Sánchez"
+  },
+  {
+    "lat": -33.2673303,
+    "lon": -58.0369674,
+    "c1": "sin_nombre",
+    "c2": "Mayo"
+  },
+  {
+    "lat": -33.2707923,
+    "lon": -58.0284186,
+    "c1": "Coronel Máximo Pérez",
+    "c2": "General José Artigas"
+  },
+  {
+    "lat": -33.2688133,
+    "lon": -58.0278822,
+    "c1": "General José Artigas",
+    "c2": "Diego Lamas"
+  },
+  {
+    "lat": -33.2485942,
+    "lon": -58.0185504,
+    "c1": "José Enrique Rodó",
+    "c2": "sin_nombre"
+  },
+  {
+    "lat": -33.2411376,
+    "lon": -58.0318489,
+    "c1": "sin_nombre",
+    "c2": "Río Negro"
+  },
+  {
+    "lat": -33.24186,
+    "lon": -58.0425285,
+    "c1": "sin_nombre",
+    "c2": "Río Negro"
+  },
+  {
+    "lat": -33.2502024,
+    "lon": -58.0335512,
+    "c1": "Wilson Ferreira Aldunate",
+    "c2": "28 de Febrero de 1811"
+  },
+  {
+    "lat": -33.2510903,
+    "lon": -58.0333506,
+    "c1": "José Enrique Rodó",
+    "c2": "28 de Febrero de 1811"
+  }
+]
