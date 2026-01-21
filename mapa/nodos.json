@@ -77,42 +77,7 @@
     "c1": "Ruta 21",
     "c2": "Bulevar Viera y Benavídez"
   },
-  {
-    "lat": -33.260975,
-    "lon": -58.031766,
-    "c1": "Ruta 21",
-    "c2": "Bulevar Viera y Benavídez"
-  },
-  {
-    "lat": -33.2606991,
-    "lon": -58.0316815,
-    "c1": "Ruta 21",
-    "c2": "Bulevar Viera y Benavídez"
-  },
-  {
-    "lat": -33.2606397,
-    "lon": -58.0316667,
-    "c1": "Ruta 21",
-    "c2": "Bulevar Viera y Benavídez"
-  },
-  {
-    "lat": -33.2605735,
-    "lon": -58.0316587,
-    "c1": "Ruta 21",
-    "c2": "Bulevar Viera y Benavídez"
-  },
-  {
-    "lat": -33.2605208,
-    "lon": -58.0316573,
-    "c1": "Ruta 21",
-    "c2": "Bulevar Viera y Benavídez"
-  },
-  {
-    "lat": -33.2604535,
-    "lon": -58.03166,
-    "c1": "Ruta 21",
-    "c2": "Bulevar Viera y Benavídez"
-  },
+  
   {
     "lat": -33.2601184,
     "lon": -58.0316986,
@@ -138,52 +103,10 @@
     "c2": "Clemente Fregeiro"
   },
   {
-    "lat": -33.2588305,
-    "lon": -58.0470559,
-    "c1": "Arroyo Dacá",
-    "c2": "Cañada de los Hornos"
-  },
-  {
-    "lat": -33.2526627,
-    "lon": -58.0558588,
-    "c1": "Arroyo Dacá",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2406896,
-    "lon": -58.052634,
-    "c1": "Arroyo Dacá",
-    "c2": "Río Negro"
-  },
-  {
     "lat": -33.2446031,
     "lon": -58.017793,
     "c1": "Puente General Liber Seregni",
     "c2": "Ruta 2 Grito de Asencio"
-  },
-  {
-    "lat": -33.2383197,
-    "lon": -58.018806,
-    "c1": "Puente General Liber Seregni",
-    "c2": "Ruta 2 Grito de Asencio"
-  },
-  {
-    "lat": -33.2332112,
-    "lon": -58.0401688,
-    "c1": "Las Calandrias",
-    "c2": "Los Guayabos"
-  },
-  {
-    "lat": -33.2346377,
-    "lon": -58.0409521,
-    "c1": "Las Calandrias",
-    "c2": "Los Robles"
-  },
-  {
-    "lat": -33.2571625,
-    "lon": -58.0172432,
-    "c1": "Ruta 2 Grito de Asencio",
-    "c2": "Camino Pense"
   },
   {
     "lat": -33.2530597,
@@ -688,18 +611,6 @@
     "lon": -58.0306107,
     "c1": "Cristóbal Colón",
     "c2": "Presbítero Manuel Antonio De Castro y Careaga"
-  },
-  {
-    "lat": -33.2448182,
-    "lon": -58.0334563,
-    "c1": "Eduardo Víctor Haedo",
-    "c2": "José Batlle y Ordóñez"
-  },
-  {
-    "lat": -33.2449155,
-    "lon": -58.0334338,
-    "c1": "Eduardo Víctor Haedo",
-    "c2": "sin_nombre"
   },
   {
     "lat": -33.2453497,
@@ -1308,12 +1219,6 @@
     "c2": "Pedro González"
   },
   {
-    "lat": -33.2469697,
-    "lon": -58.0429717,
-    "c1": "Juan Zorrilla de San Martín",
-    "c2": "Rambla Francisco Mario Ubillos"
-  },
-  {
     "lat": -33.2444583,
     "lon": -58.0197944,
     "c1": "Ricardo Detomasi",
@@ -1692,12 +1597,6 @@
     "c2": "General José Artigas"
   },
   {
-    "lat": -33.2577786,
-    "lon": -58.027802,
-    "c1": "Clemente Fregeiro",
-    "c2": "sin_nombre"
-  },
-  {
     "lat": -33.2578839,
     "lon": -58.0285565,
     "c1": "Clemente Fregeiro",
@@ -1774,60 +1673,6 @@
     "lon": -58.0304071,
     "c1": "Wilson Ferreira Aldunate",
     "c2": "Cristóbal Colón"
-  },
-  {
-    "lat": -33.2630822,
-    "lon": -57.9944072,
-    "c1": "Camino Pense",
-    "c2": "A Lo De Gandolfo"
-  },
-  {
-    "lat": -33.2616157,
-    "lon": -57.999974,
-    "c1": "Camino Pense",
-    "c2": "Pense"
-  },
-  {
-    "lat": -33.2593733,
-    "lon": -58.0085108,
-    "c1": "Camino Pense",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2590945,
-    "lon": -58.0095723,
-    "c1": "Camino Pense",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2585817,
-    "lon": -58.0115473,
-    "c1": "Camino Pense",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2583183,
-    "lon": -58.0125989,
-    "c1": "Camino Pense",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2576977,
-    "lon": -58.0149921,
-    "c1": "Camino Pense",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2576252,
-    "lon": -58.0152717,
-    "c1": "Camino Pense",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2571848,
-    "lon": -58.0170687,
-    "c1": "Camino Pense",
-    "c2": "sin_nombre"
   },
   {
     "lat": -33.2582027,
@@ -1913,24 +1758,7 @@
     "c1": "Cristóbal Colón",
     "c2": "Don Bosco"
   },
-  {
-    "lat": -33.2571925,
-    "lon": -58.0286991,
-    "c1": "Cristóbal Colón",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2572978,
-    "lon": -58.0286774,
-    "c1": "Cristóbal Colón",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2576954,
-    "lon": -58.0285956,
-    "c1": "Cristóbal Colón",
-    "c2": "sin_nombre"
-  },
+  
   {
     "lat": -33.2596733,
     "lon": -58.0282013,
@@ -2285,18 +2113,7 @@
     "c1": "Facundo Alzola",
     "c2": "sin_nombre"
   },
-  {
-    "lat": -33.2450497,
-    "lon": -58.0036985,
-    "c1": "Camino Elías Regules",
-    "c2": "Avenida Agraciada"
-  },
-  {
-    "lat": -33.2452792,
-    "lon": -58.0034794,
-    "c1": "Camino Elías Regules",
-    "c2": "Ruta 14 Brigadier General Venancio Flores"
-  },
+  
   {
     "lat": -33.2532528,
     "lon": -58.0167465,
@@ -2386,18 +2203,6 @@
     "lon": -58.0134212,
     "c1": "Andrés Cheveste",
     "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2455273,
-    "lon": -58.0037207,
-    "c1": "Avenida Agraciada",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2476451,
-    "lon": -58.004291,
-    "c1": "Avenida Agraciada",
-    "c2": "Camino del Águila"
   },
   {
     "lat": -33.2573398,
@@ -3684,42 +3489,6 @@
     "c2": "Atanasio Sierra"
   },
   {
-    "lat": -33.2437075,
-    "lon": -58.0457639,
-    "c1": "sin_nombre",
-    "c2": "Avenida República Argentina"
-  },
-  {
-    "lat": -33.2436985,
-    "lon": -58.0456969,
-    "c1": "sin_nombre",
-    "c2": "Avenida República Argentina"
-  },
-  {
-    "lat": -33.2440648,
-    "lon": -58.0359288,
-    "c1": "sin_nombre",
-    "c2": "Avenida República Argentina"
-  },
-  {
-    "lat": -33.2440664,
-    "lon": -58.0439642,
-    "c1": "Avenida República Argentina",
-    "c2": "Domingo Ordoñana"
-  },
-  {
-    "lat": -33.2442485,
-    "lon": -58.0428252,
-    "c1": "Avenida República Argentina",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2446003,
-    "lon": -58.0393347,
-    "c1": "Avenida República Argentina",
-    "c2": "Domingo Ordoñana"
-  },
-  {
     "lat": -33.2472775,
     "lon": -58.0179632,
     "c1": "sin_nombre",
@@ -3742,12 +3511,6 @@
     "lon": -58.0386003,
     "c1": "Grito de Asencio",
     "c2": "General Fructuoso Rivera"
-  },
-  {
-    "lat": -33.2461481,
-    "lon": -58.036904,
-    "c1": "Grito de Asencio",
-    "c2": "José Batlle y Ordóñez"
   },
   {
     "lat": -33.2461282,
@@ -3814,12 +3577,6 @@
     "lon": -58.013075,
     "c1": "Wilson Ferreira Aldunate",
     "c2": "Andrés Cheveste"
-  },
-  {
-    "lat": -33.2446097,
-    "lon": -58.0124443,
-    "c1": "Wilson Ferreira Aldunate",
-    "c2": "Rambla Carlos Federico Saez"
   },
   {
     "lat": -33.2468861,
@@ -3990,69 +3747,9 @@
     "c2": "Ruta 2 Grito de Asencio"
   },
   {
-    "lat": -33.2446789,
-    "lon": -58.015178,
-    "c1": "sin_nombre",
-    "c2": "Rambla Carlos Federico Saez"
-  },
-  {
     "lat": -33.2446969,
     "lon": -58.0177627,
     "c1": "Ruta 2 Grito de Asencio",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2434977,
-    "lon": -58.0193687,
-    "c1": "sin_nombre",
-    "c2": "Rambla Carlos Federico Saez"
-  },
-  {
-    "lat": -33.2437865,
-    "lon": -58.0176885,
-    "c1": "sin_nombre",
-    "c2": "Rambla Carlos Federico Saez"
-  },
-  {
-    "lat": -33.2447032,
-    "lon": -58.014158,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2446759,
-    "lon": -58.0148653,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2441956,
-    "lon": -58.0175429,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2435797,
-    "lon": -58.0183781,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2434539,
-    "lon": -58.0198467,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2432308,
-    "lon": -58.021486,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2432081,
-    "lon": -58.0216508,
-    "c1": "Rambla Carlos Federico Saez",
     "c2": "sin_nombre"
   },
   {
@@ -4146,12 +3843,6 @@
     "c2": "Paysandú"
   },
   {
-    "lat": -33.2478085,
-    "lon": -58.0483355,
-    "c1": "Juan Zorrilla de San Martín",
-    "c2": "Rambla Francisco Mario Ubillos"
-  },
-  {
     "lat": -33.2475989,
     "lon": -58.0474591,
     "c1": "Juan Zorrilla de San Martín",
@@ -4191,18 +3882,6 @@
     "lat": -33.2511992,
     "lon": -58.0496259,
     "c1": "Presbítero Manuel Antonio De Castro y Careaga",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2446705,
-    "lon": -58.0482173,
-    "c1": "Rambla Francisco Mario Ubillos",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2463221,
-    "lon": -58.0444938,
-    "c1": "Rambla Francisco Mario Ubillos",
     "c2": "sin_nombre"
   },
   {
@@ -4290,48 +3969,6 @@
     "c2": "Doctor Luis Alberto de Herrera"
   },
   {
-    "lat": -33.2431561,
-    "lon": -58.0220833,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2431066,
-    "lon": -58.0234235,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "Juan Antonio Lavalleja"
-  },
-  {
-    "lat": -33.2433703,
-    "lon": -58.0246354,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2435414,
-    "lon": -58.0253147,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2436937,
-    "lon": -58.0263626,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2437098,
-    "lon": -58.0264822,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "Tomás Gomensoro"
-  },
-  {
-    "lat": -33.2437566,
-    "lon": -58.0268416,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
     "lat": -33.2444224,
     "lon": -58.0261899,
     "c1": "Doctor Luis Alberto de Herrera",
@@ -4368,34 +4005,10 @@
     "c2": "Ituzaingó"
   },
   {
-    "lat": -33.2441005,
-    "lon": -58.0293427,
-    "c1": "sin_nombre",
-    "c2": "Rambla Carlos Federico Saez"
-  },
-  {
-    "lat": -33.2439771,
-    "lon": -58.0293374,
-    "c1": "sin_nombre",
-    "c2": "Rambla Carlos Federico Saez"
-  },
-  {
-    "lat": -33.2439614,
-    "lon": -58.0296351,
-    "c1": "sin_nombre",
-    "c2": "José Batlle y Ordóñez"
-  },
-  {
     "lat": -33.2439825,
     "lon": -58.0276517,
     "c1": "José Pedro Varela",
     "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2439011,
-    "lon": -58.0277206,
-    "c1": "José Pedro Varela",
-    "c2": "Rambla Carlos Federico Saez"
   },
   {
     "lat": -33.2438149,
@@ -4422,72 +4035,6 @@
     "c2": "General José Artigas"
   },
   {
-    "lat": -33.2441508,
-    "lon": -58.0305711,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "General José Artigas"
-  },
-  {
-    "lat": -33.244239,
-    "lon": -58.0311054,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2443191,
-    "lon": -58.031489,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2443383,
-    "lon": -58.0315824,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2443562,
-    "lon": -58.0316279,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2446546,
-    "lon": -58.0326942,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "18 de Julio"
-  },
-  {
-    "lat": -33.2451627,
-    "lon": -58.0350102,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2451775,
-    "lon": -58.0350665,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2452727,
-    "lon": -58.0353547,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2454526,
-    "lon": -58.0357891,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.245727,
-    "lon": -58.0365497,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "sin_nombre"
-  },
-  {
     "lat": -33.2447025,
     "lon": -58.0282306,
     "c1": "General Manuel Oribe",
@@ -4498,12 +4045,6 @@
     "lon": -58.0283509,
     "c1": "General Manuel Oribe",
     "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2439844,
-    "lon": -58.0283685,
-    "c1": "General Manuel Oribe",
-    "c2": "Rambla Carlos Federico Saez"
   },
   {
     "lat": -33.2432024,
@@ -4570,12 +4111,6 @@
     "lon": -58.0315131,
     "c1": "sin_nombre",
     "c2": "Cristóbal Colón"
-  },
-  {
-    "lat": -33.2460651,
-    "lon": -58.0369264,
-    "c1": "José Batlle y Ordóñez",
-    "c2": "Grito de Asencio"
   },
   {
     "lat": -33.2687942,
@@ -4816,12 +4351,6 @@
     "lon": -58.0263592,
     "c1": "Grito de Asencio",
     "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2461045,
-    "lon": -58.0372621,
-    "c1": "Grito de Asencio",
-    "c2": "José Batlle y Ordóñez"
   },
   {
     "lat": -33.2463112,
@@ -5112,12 +4641,6 @@
     "c2": "Ingeniero Carlos A. Magnone"
   },
   {
-    "lat": -33.2431985,
-    "lon": -58.0217341,
-    "c1": "sin_nombre",
-    "c2": "Rambla Carlos Federico Saez"
-  },
-  {
     "lat": -33.2675434,
     "lon": -58.0362158,
     "c1": "Pensamiento",
@@ -5201,52 +4724,11 @@
     "c1": "Ruta 2 Grito de Asencio",
     "c2": "sin_nombre"
   },
-  {
-    "lat": -33.2645656,
-    "lon": -58.0183321,
-    "c1": "Camino de los Argentinos",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2674368,
-    "lon": -58.0188065,
-    "c1": "Camino de los Argentinos",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2699052,
-    "lon": -58.0193104,
-    "c1": "Camino de los Argentinos",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2705754,
-    "lon": -58.0203781,
-    "c1": "Camino de los Argentinos",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.262443,
-    "lon": -58.0170137,
-    "c1": "La Paloma",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2630964,
-    "lon": -58.0138256,
-    "c1": "La Paloma",
-    "c2": "sin_nombre"
-  },
+  
   {
     "lat": -33.2624332,
     "lon": -58.0170307,
     "c1": "Ruta 2 Grito de Asencio",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2627248,
-    "lon": -58.0169327,
-    "c1": "La Paloma",
     "c2": "sin_nombre"
   },
   {
@@ -5262,234 +4744,6 @@
     "c2": "sin_nombre"
   },
   {
-    "lat": -33.2373948,
-    "lon": -58.0338712,
-    "c1": "Camino Departamental",
-    "c2": "A Ruta 2"
-  },
-  {
-    "lat": -33.2371546,
-    "lon": -58.0341592,
-    "c1": "Camino Departamental",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2362291,
-    "lon": -58.0352691,
-    "c1": "Camino Departamental",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2351427,
-    "lon": -58.0363337,
-    "c1": "Camino Departamental",
-    "c2": "Los Guayabos"
-  },
-  {
-    "lat": -33.2348622,
-    "lon": -58.0364523,
-    "c1": "Camino Departamental",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2340916,
-    "lon": -58.0367321,
-    "c1": "Camino Departamental",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2331408,
-    "lon": -58.0370406,
-    "c1": "Camino Departamental",
-    "c2": "Los Jilgueros"
-  },
-  {
-    "lat": -33.2329402,
-    "lon": -58.0371057,
-    "c1": "Camino Departamental",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2382368,
-    "lon": -58.0332245,
-    "c1": "Los Arrayanes",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.238507,
-    "lon": -58.0335071,
-    "c1": "Los Arrayanes",
-    "c2": "Los Robles"
-  },
-  {
-    "lat": -33.2386919,
-    "lon": -58.0336794,
-    "c1": "Los Arrayanes",
-    "c2": "Los Robles"
-  },
-  {
-    "lat": -33.2393735,
-    "lon": -58.0364377,
-    "c1": "Los Arrayanes",
-    "c2": "Los Horneros"
-  },
-  {
-    "lat": -33.2394806,
-    "lon": -58.0366281,
-    "c1": "Los Arrayanes",
-    "c2": "Los Horneros"
-  },
-  {
-    "lat": -33.2394873,
-    "lon": -58.0379619,
-    "c1": "Los Arrayanes",
-    "c2": "Los Zorzales"
-  },
-  {
-    "lat": -33.2390193,
-    "lon": -58.0403991,
-    "c1": "Los Arrayanes",
-    "c2": "Los Ceibos"
-  },
-  {
-    "lat": -33.2388809,
-    "lon": -58.0406223,
-    "c1": "Los Arrayanes",
-    "c2": "Los Ceibos"
-  },
-  {
-    "lat": -33.237981,
-    "lon": -58.0410148,
-    "c1": "Los Arrayanes",
-    "c2": "Los Fresnos"
-  },
-  {
-    "lat": -33.2378258,
-    "lon": -58.0410198,
-    "c1": "Los Arrayanes",
-    "c2": "Los Fresnos"
-  },
-  {
-    "lat": -33.237091,
-    "lon": -58.0410247,
-    "c1": "Los Arrayanes",
-    "c2": "Los Molles"
-  },
-  {
-    "lat": -33.2351259,
-    "lon": -58.0366054,
-    "c1": "Los Cardenales",
-    "c2": "Los Guayabos"
-  },
-  {
-    "lat": -33.2374489,
-    "lon": -58.0358299,
-    "c1": "Los Cardenales",
-    "c2": "Los Robles"
-  },
-  {
-    "lat": -33.2331932,
-    "lon": -58.0372513,
-    "c1": "Los Cardenales",
-    "c2": "Los Jilgueros"
-  },
-  {
-    "lat": -33.234137,
-    "lon": -58.0369469,
-    "c1": "Los Cardenales",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2375382,
-    "lon": -58.0356641,
-    "c1": "Los Ceibos",
-    "c2": "Los Robles"
-  },
-  {
-    "lat": -33.2383324,
-    "lon": -58.036904,
-    "c1": "Los Ceibos",
-    "c2": "Los Horneros"
-  },
-  {
-    "lat": -33.2385499,
-    "lon": -58.0382494,
-    "c1": "Los Ceibos",
-    "c2": "Los Zorzales"
-  },
-  {
-    "lat": -33.2375244,
-    "lon": -58.0386044,
-    "c1": "Los Fresnos",
-    "c2": "Los Zorzales"
-  },
-  {
-    "lat": -33.2375016,
-    "lon": -58.0384405,
-    "c1": "Los Fresnos",
-    "c2": "Los Talas"
-  },
-  {
-    "lat": -33.237312,
-    "lon": -58.0372423,
-    "c1": "Los Fresnos",
-    "c2": "Los Horneros"
-  },
-  {
-    "lat": -33.2371611,
-    "lon": -58.0363649,
-    "c1": "Los Fresnos",
-    "c2": "Los Robles"
-  },
-  {
-    "lat": -33.2342861,
-    "lon": -58.0382752,
-    "c1": "Los Guayabos",
-    "c2": "Los Horneros"
-  },
-  {
-    "lat": -33.2365506,
-    "lon": -58.0374996,
-    "c1": "Los Horneros",
-    "c2": "Los Robles"
-  },
-  {
-    "lat": -33.237151,
-    "lon": -58.0372967,
-    "c1": "Los Horneros",
-    "c2": "Los Fresnos"
-  },
-  {
-    "lat": -33.235482,
-    "lon": -58.0394418,
-    "c1": "Los Jilgueros",
-    "c2": "Los Molles"
-  },
-  {
-    "lat": -33.2354011,
-    "lon": -58.0391439,
-    "c1": "Los Jilgueros",
-    "c2": "Los Zorzales"
-  },
-  {
-    "lat": -33.2364939,
-    "lon": -58.0401446,
-    "c1": "Los Molles",
-    "c2": "Los Talas"
-  },
-  {
-    "lat": -33.2356474,
-    "lon": -58.0391258,
-    "c1": "Los Robles",
-    "c2": "Los Zorzales"
-  },
-  {
-    "lat": -33.2374246,
-    "lon": -58.0386389,
-    "c1": "Los Zorzales",
-    "c2": "Los Talas"
-  },
-  {
     "lat": -33.2736105,
     "lon": -58.0127759,
     "c1": "sin_nombre",
@@ -5502,161 +4756,12 @@
     "c2": "Ruta 2 Grito de Asencio"
   },
   {
-    "lat": -33.2318759,
-    "lon": -58.0231763,
-    "c1": "A Ruta 2",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2337613,
-    "lon": -58.025089,
-    "c1": "A Ruta 2",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2342425,
-    "lon": -58.0255599,
-    "c1": "A Ruta 2",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2378445,
-    "lon": -58.0302615,
-    "c1": "A Ruta 2",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2376698,
-    "lon": -58.0309569,
-    "c1": "A Ruta 2",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2377057,
-    "lon": -58.0333599,
-    "c1": "sin_nombre",
-    "c2": "A Ruta 2"
-  },
-  {
-    "lat": -33.2376873,
-    "lon": -58.0334302,
-    "c1": "sin_nombre",
-    "c2": "A Ruta 2"
-  },
-  {
-    "lat": -33.2376713,
-    "lon": -58.0324591,
-    "c1": "A Ruta 2",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2416871,
-    "lon": -58.0191277,
-    "c1": "sin_nombre",
-    "c2": "Río Negro"
-  },
-  {
-    "lat": -33.2753114,
-    "lon": -58.0049608,
-    "c1": "A Lo De Gandolfo",
-    "c2": "Pense"
-  },
-  {
-    "lat": -33.2724474,
-    "lon": -57.9977878,
-    "c1": "A Lo De Gandolfo",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2677747,
-    "lon": -57.9960934,
-    "c1": "A Lo De Gandolfo",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2348608,
-    "lon": -58.003442,
-    "c1": "Camino Cantoni",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2362841,
-    "lon": -58.0015773,
-    "c1": "Camino Cantoni",
-    "c2": "Pamer"
-  },
-  {
-    "lat": -33.2364103,
-    "lon": -58.0015085,
-    "c1": "Camino Cantoni",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2755615,
-    "lon": -58.0051663,
-    "c1": "sin_nombre",
-    "c2": "Pense"
-  },
-  {
     "lat": -33.2678178,
     "lon": -58.0153514,
     "c1": "sin_nombre",
     "c2": "Ruta 2 Grito de Asencio"
   },
-  {
-    "lat": -33.2709837,
-    "lon": -58.0034025,
-    "c1": "sin_nombre",
-    "c2": "Pense"
-  },
-  {
-    "lat": -33.2364039,
-    "lon": -58.0007149,
-    "c1": "sin_nombre",
-    "c2": "Pamer"
-  },
-  {
-    "lat": -33.2663556,
-    "lon": -58.0017676,
-    "c1": "sin_nombre",
-    "c2": "Pense"
-  },
-  {
-    "lat": -33.2451566,
-    "lon": -58.0004713,
-    "c1": "sin_nombre",
-    "c2": "Cañada Novillos"
-  },
-  {
-    "lat": -33.2219473,
-    "lon": -58.0157052,
-    "c1": "sin_nombre",
-    "c2": "Río Negro"
-  },
-  {
-    "lat": -33.2368122,
-    "lon": -58.0104758,
-    "c1": "sin_nombre",
-    "c2": "Río Negro"
-  },
-  {
-    "lat": -33.244962,
-    "lon": -58.0006054,
-    "c1": "Cañada Novillos",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2450693,
-    "lon": -58.0005631,
-    "c1": "sin_nombre",
-    "c2": "Cañada Novillos"
-  },
-  {
-    "lat": -33.2637617,
-    "lon": -58.0113675,
-    "c1": "sin_nombre",
-    "c2": "La Paloma"
-  },
+  
   {
     "lat": -33.2718011,
     "lon": -58.0265065,
@@ -5724,66 +4829,6 @@
     "c2": "Manuel Freire"
   },
   {
-    "lat": -33.2409728,
-    "lon": -58.0037839,
-    "c1": "Camino Cantoni",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2440023,
-    "lon": -58.0037098,
-    "c1": "Camino Cantoni",
-    "c2": "Camino Elías Regules"
-  },
-  {
-    "lat": -33.2437598,
-    "lon": -58.0039556,
-    "c1": "Camino Cantoni",
-    "c2": "Camino Elías Regules"
-  },
-  {
-    "lat": -33.2442757,
-    "lon": -58.0098967,
-    "c1": "Camino Elías Regules",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2441479,
-    "lon": -58.0089368,
-    "c1": "Camino Elías Regules",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2439373,
-    "lon": -58.0072714,
-    "c1": "Camino Elías Regules",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2439152,
-    "lon": -58.0070959,
-    "c1": "Camino Elías Regules",
-    "c2": "Calle 1"
-  },
-  {
-    "lat": -33.2438804,
-    "lon": -58.0067989,
-    "c1": "Camino Elías Regules",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2437522,
-    "lon": -58.0057975,
-    "c1": "Camino Elías Regules",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2479232,
-    "lon": -58.0020223,
-    "c1": "Camino del Águila",
-    "c2": "sin_nombre"
-  },
-  {
     "lat": -33.2698424,
     "lon": -58.0342598,
     "c1": "Coronel Máximo Pérez",
@@ -5796,22 +4841,10 @@
     "c2": "sin_nombre"
   },
   {
-    "lat": -33.2781683,
-    "lon": -58.0369449,
-    "c1": "sin_nombre",
-    "c2": "Ruta 21"
-  },
-  {
     "lat": -33.2503721,
     "lon": -58.0142005,
     "c1": "sin_nombre",
     "c2": "Mario H. Segurola"
-  },
-  {
-    "lat": -33.2374337,
-    "lon": -58.0107549,
-    "c1": "Cañada Novillos",
-    "c2": "Río Negro"
   },
   {
     "lat": -33.2554653,
@@ -6125,48 +5158,7 @@
     "c1": "Florencio Sánchez",
     "c2": "Hernandarias"
   },
-  {
-    "lat": -33.2451785,
-    "lon": -58.0429241,
-    "c1": "Domingo Ordoñana",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2434913,
-    "lon": -58.0070605,
-    "c1": "Calle 1",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2432706,
-    "lon": -58.0071461,
-    "c1": "Calle 1",
-    "c2": "Calle 2"
-  },
-  {
-    "lat": -33.2427605,
-    "lon": -58.0075311,
-    "c1": "Calle 1",
-    "c2": "Calle 4"
-  },
-  {
-    "lat": -33.2421184,
-    "lon": -58.0080257,
-    "c1": "Calle 1",
-    "c2": "Calle 5"
-  },
-  {
-    "lat": -33.2416826,
-    "lon": -58.0085468,
-    "c1": "Calle 1",
-    "c2": "Calle 6"
-  },
-  {
-    "lat": -33.2421081,
-    "lon": -58.0065773,
-    "c1": "Calle 4",
-    "c2": "Calle 3"
-  },
+  
   {
     "lat": -33.2635477,
     "lon": -58.0326839,
@@ -6178,30 +5170,6 @@
     "lon": -58.0370364,
     "c1": "General Fructuoso Rivera",
     "c2": "Aparicio Saravia"
-  },
-  {
-    "lat": -33.2430491,
-    "lon": -58.00586,
-    "c1": "Calle 2",
-    "c2": "Calle 3"
-  },
-  {
-    "lat": -33.2430675,
-    "lon": -58.0049136,
-    "c1": "Calle 2",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2428913,
-    "lon": -58.0041983,
-    "c1": "Calle 2",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2421898,
-    "lon": -58.0063721,
-    "c1": "Calle 3",
-    "c2": "sin_nombre"
   },
   {
     "lat": -33.2617606,
@@ -6222,12 +5190,6 @@
     "c2": "sin_nombre"
   },
   {
-    "lat": -33.2381936,
-    "lon": -58.0188247,
-    "c1": "Ruta 2 Grito de Asencio",
-    "c2": "sin_nombre"
-  },
-  {
     "lat": -33.2625399,
     "lon": -58.017722,
     "c1": "sin_nombre",
@@ -6245,18 +5207,7 @@
     "c1": "General Gervasio Galarza",
     "c2": "sin_nombre"
   },
-  {
-    "lat": -33.2781197,
-    "lon": -58.0369603,
-    "c1": "Ruta 21",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2711536,
-    "lon": -58.0347382,
-    "c1": "Ruta 21",
-    "c2": "sin_nombre"
-  },
+  
   {
     "lat": -33.2626231,
     "lon": -58.0179674,
@@ -6300,42 +5251,6 @@
     "c2": "sin_nombre"
   },
   {
-    "lat": -33.24409,
-    "lon": -58.0292596,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.244001,
-    "lon": -58.0285166,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2438717,
-    "lon": -58.0276239,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.243833,
-    "lon": -58.0276644,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2439091,
-    "lon": -58.0285357,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2439938,
-    "lon": -58.0292425,
-    "c1": "Rambla Carlos Federico Saez",
-    "c2": "sin_nombre"
-  },
-  {
     "lat": -33.2491107,
     "lon": -58.0170272,
     "c1": "sin_nombre",
@@ -6370,18 +5285,6 @@
     "lon": -58.0185504,
     "c1": "José Enrique Rodó",
     "c2": "sin_nombre"
-  },
-  {
-    "lat": -33.2411376,
-    "lon": -58.0318489,
-    "c1": "sin_nombre",
-    "c2": "Río Negro"
-  },
-  {
-    "lat": -33.24186,
-    "lon": -58.0425285,
-    "c1": "sin_nombre",
-    "c2": "Río Negro"
   },
   {
     "lat": -33.2502024,

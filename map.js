@@ -6,7 +6,16 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors',
     maxZoom: 19
 }).addTo(map);
-
+// Marcador del camión
+const camionIcon = L.icon({
+    iconUrl: 'imgs/garbage-truck.png',
+    iconSize: [32, 32],
+    iconAnchor: [16, 16]
+}); 
+const markerCamion = L.marker([-33.250661,-58.0519491], {icon: camionIcon}).addTo(map);
+markerCamion.on('click', () => {
+    document.body.innerHTML = `<h1 class="info-camion">PUTO EL QUE LO LEA</h1>`;
+});
 // ======= POLÍGONOS =======
 
     // LUNES (azul) - 3 polígonos
@@ -237,22 +246,25 @@ const nodos = [];
 
 fetch('mapa/nodos.json')
 .then(response => response.json())
-.then(data => {
-    
+.then(crudos => {
+    const data= crudos.filter(obj =>
+      !Object.values(obj).includes("sin_nombre")
+    );
     const nodosInput = document.getElementById("nodosInput");
     const contNodos=document.getElementById("nodos");
     nodosInput.value = "";
     data.forEach(nodo => {
         const marker=L.circleMarker([nodo.lat, nodo.lon], {
-            radius: 5,
-            color: 'black',
-            fillOpacity: 0.5
+            radius: 4,
+            color: 'transparent',
+            fillColor: '#000000',
+            fillOpacity: 0.9
         }).addTo(map);
 
         marker.on('click', () => {
             const coordenada = `[${nodo.lat},${nodo.lon}]`;
             const element=document.createElement('div');
-            element.innerHTML=`Nodo ID: ${nodo.id}<br>Coordenadas: ${coordenada}`;
+            element.innerHTML=`Nodo ID: ${nodo.id}<br>Coordenadas: ${coordenada}<br>C1: ${nodo.c1}<br>C2: ${nodo.c2}`;
             element.className='nodo';
             contNodos.appendChild(element);
             nodos.push({ lat: nodo.lat, lng: nodo.lon });
